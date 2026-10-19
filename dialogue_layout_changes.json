@@ -1,0 +1,4304 @@
+[
+  {
+    "offset": "0x258eec",
+    "japanese": "私が以前お世話になっていた所とほとんど離れていないようです。",
+    "before": "We seem to be near↓where I used to stay.",
+    "after": "We seem to be near where I↓used to stay.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x258f64",
+    "japanese": "あそこです！↓あの建物で「プロ」の方が囲碁教室を開いています。",
+    "before": "Over there!↓A pro teaches Go↓in that building.",
+    "after": "Over there! A pro teaches↓Go in that building.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x258fa4",
+    "japanese": "そこならばあなたにぴったりな相手がきっと見つかるでしょう。",
+    "before": "You should find↓a suitable opponent there.",
+    "after": "You should find a suitable↓opponent there.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x258fe0",
+    "japanese": "まずは囲碁教室へ行ってみましょ↓う！",
+    "before": "Let us visit↓the Go class first!",
+    "after": "Let us visit the Go↓class first!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x260320",
+    "japanese": "今日も一局一局を↓大事にしましょうね。",
+    "before": "Let us treasure↓every game today.",
+    "after": "Let us treasure every↓game today.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x260414",
+    "japanese": "どんどん打ってどんどん強くなっていってくださいね！",
+    "before": "Play more games,↓and grow stronger!",
+    "after": "Play more games, and↓grow stronger!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x260464",
+    "japanese": "ああっ↓今日は打ってくれるんですね！",
+    "before": "Ah!↓You will play today!",
+    "after": "Ah! You will play today!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x2604b0",
+    "japanese": "・・・今日は↓囲碁をなさるんですか？",
+    "before": "...Will you↓play Go today?",
+    "after": "...Will you play Go today?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26068c",
+    "japanese": "宿題が残っている？↓日本の歴史の問題なら↓お手伝いしますよ！",
+    "before": "Homework left?↓I can help with↓Japanese history!",
+    "after": "Homework left? I can help↓with Japanese history!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x2606cc",
+    "japanese": "千年前の私の囲碁への情熱も↓今のあなたの情熱も同じです。↓千年後の未来も、きっと・・・",
+    "before": "Our passion for Go↓spans a thousand years.↓And in a thousand more...",
+    "after": "Our passion for Go spans a↓thousand years. And in a↓thousand more...",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x2609b0",
+    "japanese": "私、もっとあなたに↓碁を打って欲しいなぁ～。",
+    "before": "I wish you would↓play more Go...",
+    "after": "I wish you would play↓more Go...",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x260a44",
+    "japanese": "近頃なんだか・・・↓はぁ・・・なんでもありません。",
+    "before": "Lately, somehow...↓Sigh... It is nothing.",
+    "after": "Lately, somehow... Sigh...↓It is nothing.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x260a78",
+    "japanese": "何で私はあなたに↓ひきよせられたのでしょう・・・",
+    "before": "Why was I↓drawn to you...?",
+    "after": "Why was I drawn to you...?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x260aac",
+    "japanese": "うう・・・↓ほんと恨めしいです・・・",
+    "before": "Oh...↓How vexing...",
+    "after": "Oh... How vexing...",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x260ad4",
+    "japanese": "私はもっと↓あなたと碁が打ちたいです・・・",
+    "before": "I wish to play↓more Go with you...",
+    "after": "I wish to play more Go↓with you...",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x260b78",
+    "japanese": "虎次郎・・・↓やさしくていい人でした・・・",
+    "before": "Torajiro...↓He was so kind...",
+    "after": "Torajiro... He was↓so kind...",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 18
+  },
+  {
+    "offset": "0x260ba4",
+    "japanese": "神はなぜあなたのもとに↓私を蘇らせたのか・・・",
+    "before": "Why did the gods↓bring me back to you...?",
+    "after": "Why did the gods bring me↓back to you...?",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x260c24",
+    "japanese": "ダメヅメをして、↓地を数える所までが一局の碁。↓最後まで丁寧に打ちましょう。",
+    "before": "Fill the dame,↓then count territory.↓Play carefully to the end.",
+    "after": "Fill the dame, then count↓territory. Play carefully↓to the end.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x261220",
+    "japanese": "あなたは↓進藤ヒカルをご存じですか？",
+    "before": "Do you know↓Shindo Hikaru?",
+    "after": "Do you know Shindo Hikaru?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x261248",
+    "japanese": "・・・そう、↓ご存じありませんか・・・",
+    "before": "Oh...↓You do not...",
+    "after": "Oh... You do not...",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x2612d0",
+    "japanese": "ならば私をあなたの下へ↓おいて下さい。↓なぜなら・・・",
+    "before": "Then let me↓stay with you.↓For you see...",
+    "after": "Then let me stay with you.↓For you see...",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x261348",
+    "japanese": "いえいえ、かまいません！↓私がしっかり教えて差し上げます！",
+    "before": "Not to worry!↓I shall teach you well!",
+    "after": "Not to worry! I shall↓teach you well!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x261384",
+    "japanese": "それではこれからよろしくお願い↓いたしますね。",
+    "before": "I look forward↓to our time together.",
+    "after": "I look forward to our↓time together.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x2613b4",
+    "japanese": "私と一緒に↓神の一手をめざしましょう！",
+    "before": "Together, let's↓seek the divine move!",
+    "after": "Together, let's seek the↓divine move!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x262874",
+    "japanese": "私が以前お世話になっていた所とほとんど離れていないようです。",
+    "before": "We seem to be near↓where I used to stay.",
+    "after": "We seem to be near where I↓used to stay.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x2628ec",
+    "japanese": "あそこです！↓あの建物で「プロ」の方が囲碁教室を開いています。",
+    "before": "Over there!↓A pro teaches Go↓in that building.",
+    "after": "Over there! A pro teaches↓Go in that building.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26292c",
+    "japanese": "そこならばあなたにぴったりな相手がきっと見つかるでしょう。",
+    "before": "You should find↓a suitable opponent there.",
+    "after": "You should find a suitable↓opponent there.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x262968",
+    "japanese": "まずは囲碁教室へ行ってみましょ↓う！",
+    "before": "Let us visit↓the Go class first!",
+    "after": "Let us visit the Go↓class first!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x262a90",
+    "japanese": "おや？↓あれはあかりちゃんでは？",
+    "before": "Oh?↓Is that Akari?",
+    "after": "Oh? Is that Akari?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 18
+  },
+  {
+    "offset": "0x262ab4",
+    "japanese": "こんにちは。↓あなた、ここ初めて？",
+    "before": "Hello!↓First time here?",
+    "after": "Hello! First time here?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x262b10",
+    "japanese": "あなたは？↓$1？↓ふーん、初心者なんだ。",
+    "before": "And you?↓$1?↓Oh, a beginner.",
+    "after": "And you? $1? Oh,↓a beginner.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x262c84",
+    "japanese": "すごーい。↓あなた、すごく強いよ！",
+    "before": "Wow!↓You're really good!",
+    "after": "Wow! You're really good!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x262cfc",
+    "japanese": "えー！↓葉瀬中！？一年生！？↓じゃ、囲碁部に入りなよ！",
+    "before": "What?!↓First year at Haze?!↓Join the Go club!",
+    "after": "What?! First year at↓Haze?! Join the Go club!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x262d34",
+    "japanese": "私も葉瀬中囲碁部だったんだけど、もう三年生だから引退しちゃったんだ。",
+    "before": "I was in Haze's Go club.↓In my third year now, I've↓retired.",
+    "after": "I was in Haze's Go club.↓In my third year now,↓I've retired.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x262d7c",
+    "japanese": "今、囲碁部は小池くんっていう二年生が部長でがんばっているの。",
+    "before": "Koike, a second-year, is↓working hard to lead the↓club.",
+    "after": "Koike, a second-year, is↓working hard to lead↓the club.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x262dbc",
+    "japanese": "あなたみたいな強い子が入ったら小池くん喜ぶよ！",
+    "before": "You're so strong!↓Koike will be thrilled!",
+    "after": "You're so strong! Koike↓will be thrilled!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x262e68",
+    "japanese": "約束したよ！↓じゃあね！",
+    "before": "You promised!↓See you!",
+    "after": "You promised! See you!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x262f64",
+    "japanese": "やった！↓勝っちゃった！",
+    "before": "Yay!↓I won!",
+    "after": "Yay! I won!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 11
+  },
+  {
+    "offset": "0x262f80",
+    "japanese": "まだ私と対局するのはちょっと早↓かったのかな？↓ふふふ。",
+    "before": "Maybe it was too soon↓for you to play me?↓Hee hee.",
+    "after": "Maybe it was too soon for↓you to play me? Hee hee.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x262fbc",
+    "japanese": "また対局しましょう。↓今日は楽しかったよ。↓ありがとう。",
+    "before": "Let's play again.↓That was fun today.↓Thanks!",
+    "after": "Let's play again. That was↓fun today. Thanks!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x263058",
+    "japanese": "$1！↓こんにちは！",
+    "before": "$1!↓Hello!",
+    "after": "$1! Hello!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x2630c8",
+    "japanese": "ホント！？↓ありがとう！",
+    "before": "Really?!↓Thanks!",
+    "after": "Really?! Thanks!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 16
+  },
+  {
+    "offset": "0x2632a0",
+    "japanese": "やった!↓今日は勝ったよ！",
+    "before": "Yay!↓I won today!",
+    "after": "Yay! I won today!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x26333c",
+    "japanese": "今先生に聞いたんだけど、↓日本棋院でアマチュアの大会があるらしいの。",
+    "before": "My teacher told me↓about an amateur event↓at the Nihon Ki-in.",
+    "after": "My teacher told me about↓an amateur event at the↓Nihon Ki-in.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x2633fc",
+    "japanese": "$1みたいな強い人と観戦すればためになるかなって思うの。",
+    "before": "I'd learn a lot↓watching with you,↓$1.",
+    "after": "I'd learn a lot watching↓with you, $1.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x263434",
+    "japanese": "会場は棋院の大ホールよ。↓会場で会ったときにはよろしくね。",
+    "before": "It's in the main hall↓at the Ki-in.↓See you there!",
+    "after": "It's in the main hall at↓the Ki-in. See you there!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26361c",
+    "japanese": "あ！↓もしかして藤崎先輩が言ってた一年生！？",
+    "before": "The first-year↓Fujisaki told me about?!",
+    "after": "The first-year Fujisaki↓told me about?!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x263694",
+    "japanese": "え！↓他の部員・・・？",
+    "before": "Eh?↓Other members...?",
+    "after": "Eh? Other members...?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x2636ac",
+    "japanese": "・・・え、ええっと・・・↓・・・いや実は今、↓部員はボク一人なんだ・・・",
+    "before": "...Uh, well...↓Actually...↓I am the only member now.",
+    "after": "...Uh, well... Actually...↓I am the only member now.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x2636f8",
+    "japanese": "前はもっといたんだけど、三年生でみんな抜けちゃったんだ・・・",
+    "before": "There were more,↓but all the third-years↓have left...",
+    "after": "There were more, but all↓the third-years↓have left...",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x263768",
+    "japanese": "たった一人か。↓なんだよ、囲碁部はまたふりだし↓じゃねーか。",
+    "before": "Only one?↓The Go club is right↓back where it started.",
+    "after": "Only one? The Go club is↓right back where↓it started.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26385c",
+    "japanese": "ここの囲碁部を一人で作ったっていう伝説の筒井先輩ですね！",
+    "before": "The great Tsutsui,↓who built the club↓all by himself?!",
+    "after": "The great Tsutsui, who↓built the club all↓by himself?!",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x263900",
+    "japanese": "（オモシレエ、↓　オレのこと筒井と思ってやがる）",
+    "before": "(This is rich.↓He thinks I am Tsutsui!)",
+    "after": "(This is rich. He thinks I↓am Tsutsui!)",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26397c",
+    "japanese": "よし。↓部員集めに協力してやろう。",
+    "before": "Right.↓I'll help find members.",
+    "after": "Right. I'll help↓find members.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 16
+  },
+  {
+    "offset": "0x263c34",
+    "japanese": "すごい・・・筒井先輩も強いけど、$1はもっとすごい！",
+    "before": "Tsutsui is good,↓but you are better,↓$1!",
+    "after": "Tsutsui is good, but you↓are better, $1!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x263c68",
+    "japanese": "おい、おまえ。↓囲碁部はいいから院生になれ。",
+    "before": "Hey, you.↓Forget the club.↓Be an insei.",
+    "after": "Hey, you. Forget the club.↓Be an insei.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x263c98",
+    "japanese": "ええっ！↓そんなァ！",
+    "before": "What?!↓No way!",
+    "after": "What?! No way!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 14
+  },
+  {
+    "offset": "0x263cf8",
+    "japanese": "そのぐらいコイツの実力見りゃわかるだろう。",
+    "before": "You can tell↓from how this kid plays.",
+    "after": "You can tell from how this↓kid plays.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x263d74",
+    "japanese": "知らねーよ。↓そういや、前にもコイツみてーなヤツがいたな。",
+    "before": "Who knows?↓Come to think of it,↓there was another kid...",
+    "after": "Who knows? Come to think↓of it, there was↓another kid...",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x263db0",
+    "japanese": "前・・・？↓院生・・・↓進藤先輩のことですね！",
+    "before": "Another kid?↓An insei...↓You mean Shindo!",
+    "after": "Another kid? An insei...↓You mean Shindo!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x263e10",
+    "japanese": "囲碁部は前にも今日みたいなことを経験しているんだ。",
+    "before": "The club has been↓through this before!",
+    "after": "The club has been through↓this before!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x263e44",
+    "japanese": "そうか！↓こうやって囲碁部は成長していったんだ！",
+    "before": "I see!↓That's how our Go club↓grew over time!",
+    "after": "I see! That's how our Go↓club grew over time!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x263eec",
+    "japanese": "がんばってね！↓$1！",
+    "before": "Good luck!↓$1!",
+    "after": "Good luck! $1!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x263f54",
+    "japanese": "あの、筒井先輩。↓今度はボクと打ってもらえないで↓しょうか？",
+    "before": "Um, Tsutsui...↓Could you play me↓next time?",
+    "after": "Um, Tsutsui... Could you↓play me next time?",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x263f94",
+    "japanese": "おっと、ワリィな。↓オレもそんなヒマじゃねーんだ。",
+    "before": "Whoops, sorry.↓I don't have all day.",
+    "after": "Whoops, sorry. I don't↓have all day.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x263fc8",
+    "japanese": "そろそろ将棋部のほうに行かねー↓と・・・",
+    "before": "I ought to get↓to the shogi club...",
+    "after": "I ought to get to the↓shogi club...",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x263ff4",
+    "japanese": "え？↓将棋？",
+    "before": "Huh?↓Shogi?",
+    "after": "Huh? Shogi?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 11
+  },
+  {
+    "offset": "0x264004",
+    "japanese": "な、何でもねーよ！↓おまえとはまたな。↓じゃ、あばよ。",
+    "before": "N-never mind!↓See you some other time.↓Later!",
+    "after": "N-never mind! See you some↓other time. Later!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x264270",
+    "japanese": "すごい！↓筒井先輩ってすごいや！",
+    "before": "Wow!↓Tsutsui is amazing!",
+    "after": "Wow! Tsutsui is amazing!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x264544",
+    "japanese": "おっと。↓まァ、おまえにはどうでもいいことだ。",
+    "before": "Oops. Well,↓none of your business.",
+    "after": "Oops. Well, none of↓your business.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x264574",
+    "japanese": "なんだ？また伝説の筒井サマに相手してもらいてーのか？",
+    "before": "Want to play the↓legendary Tsutsui again?",
+    "after": "Want to play the legendary↓Tsutsui again?",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26461c",
+    "japanese": "しょうがねェ。↓じゃ、↓今日は二子置かせてもらおうか。",
+    "before": "All right.↓Give me two stones↓this time.",
+    "after": "All right. Give me two↓stones this time.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x2646ac",
+    "japanese": "じゃーな。↓あばよ。",
+    "before": "See you.↓Later.",
+    "after": "See you. Later.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 15
+  },
+  {
+    "offset": "0x2646c4",
+    "japanese": "あ、$1。↓どうしたの？",
+    "before": "$1!↓What is it?",
+    "after": "$1! What is it?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x2646dc",
+    "japanese": "え！？↓今日も筒井先輩が来てる？",
+    "before": "What?!↓Tsutsui is here again?",
+    "after": "What?! Tsutsui is↓here again?",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x264730",
+    "japanese": "じゃ、ボク、↓筒井先輩探しに行くね！",
+    "before": "I'll go look↓for Tsutsui!",
+    "after": "I'll go look for Tsutsui!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26497c",
+    "japanese": "やっぱりおめえにゃ囲碁部がお似合いだったかもなァ。",
+    "before": "Maybe the Go club↓suits you after all.",
+    "after": "Maybe the Go club suits↓you after all.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x2649b0",
+    "japanese": "精進しろよ。↓じゃーな。",
+    "before": "Keep at it.↓Later.",
+    "after": "Keep at it. Later.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 18
+  },
+  {
+    "offset": "0x264aa8",
+    "japanese": "今日はボクしかいないんだ。↓ボクでよければ対局してもらいたいんだけど・・・",
+    "before": "It's just me today. If you↓don't mind, would you play↓me?",
+    "after": "It's just me today. If you↓don't mind, would you↓play me?",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x264b14",
+    "japanese": "そうだ！↓三谷先輩に相手してもらったら！",
+    "before": "I know!↓Why not play Mitani?",
+    "after": "I know! Why not↓play Mitani?",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 15
+  },
+  {
+    "offset": "0x264c10",
+    "japanese": "きっと三谷先輩も喜んで対局してくれるよ！",
+    "before": "I'm sure Mitani↓will gladly play you!",
+    "after": "I'm sure Mitani will↓gladly play you!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x264d04",
+    "japanese": "また伝説の筒井サマに・・・↓あ？↓本物の筒井に会った？",
+    "before": "Legendary Tsutsui...↓Huh? You met↓the real Tsutsui?",
+    "after": "Legendary Tsutsui... Huh?↓You met the real Tsutsui?",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x264dd4",
+    "japanese": "おっと、時間がねェ。↓じゃな。",
+    "before": "Oops, out of time.↓Later.",
+    "after": "Oops, out of time. Later.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x264f0c",
+    "japanese": "どうする、またやるか？↓やんねーのか？",
+    "before": "Well? Play again?↓Or not?",
+    "after": "Well? Play again? Or not?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x265068",
+    "japanese": "ほー、和谷はこんな所に住んでいるんですかー。",
+    "before": "Oh, so this is↓where Waya lives.",
+    "after": "Oh, so this is where↓Waya lives.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x265134",
+    "japanese": "ちょっといつもよりも少ねーな。↓うーん。",
+    "before": "Fewer than usual.↓Hmm...",
+    "after": "Fewer than usual. Hmm...",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x265160",
+    "japanese": "そうだ！↓なァ、四人でペア碁やんねーか！↓ペア碁！",
+    "before": "I know!↓How about pair Go?↓The four of us!",
+    "after": "I know! How about pair Go?↓The four of us!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x265230",
+    "japanese": "はは、オレ達の歓迎対局か。↓おもしろそうだな。",
+    "before": "Our welcome game?↓Ha ha, sounds fun.",
+    "after": "Our welcome game? Ha ha,↓sounds fun.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x265260",
+    "japanese": "そうね。↓うん。賛成！",
+    "before": "Yes.↓I agree!",
+    "after": "Yes. I agree!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 13
+  },
+  {
+    "offset": "0x265290",
+    "japanese": "よし！↓それじゃはじめるぞ！",
+    "before": "Right!↓Let's get started!",
+    "after": "Right! Let's get started!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x2654a0",
+    "japanese": "ふう。↓どうだった。",
+    "before": "Phew.↓How was it?",
+    "after": "Phew. How was it?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x2654d0",
+    "japanese": "私は伊角くんについていくので精一杯だったわ。",
+    "before": "I could barely↓keep up with Isumi.",
+    "after": "I could barely keep up↓with Isumi.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x265518",
+    "japanese": "たまにはいいよな。↓またやろうぜ。",
+    "before": "A nice change.↓Let's play again.",
+    "after": "A nice change. Let's↓play again.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x265578",
+    "japanese": "へー。↓そうなんだ。",
+    "before": "Oh?↓Is that so?",
+    "after": "Oh? Is that so?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 15
+  },
+  {
+    "offset": "0x2655dc",
+    "japanese": "越智ってプロになってからの成績ってどうなの？",
+    "before": "How has Ochi done↓since turning pro?",
+    "after": "How has Ochi done since↓turning pro?",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x265720",
+    "japanese": "また来いよ。↓じゃーな！",
+    "before": "Come again!↓Later!",
+    "after": "Come again! Later!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 18
+  },
+  {
+    "offset": "0x265998",
+    "japanese": "よし！↓じゃ、はじめるぞ。",
+    "before": "Right!↓Let's start!",
+    "after": "Right! Let's start!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x2659ec",
+    "japanese": "じゃ、何しに来たんだよおまえ！",
+    "before": "Then what did↓you come for?!",
+    "after": "Then what did you↓come for?!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x265a84",
+    "japanese": "うーん。↓やっぱりおまえ、↓伊角さんに勝っただけあるよなァ。",
+    "before": "Hmm. No wonder↓you beat Isumi.↓You really are strong.",
+    "after": "Hmm. No wonder you beat↓Isumi. You really↓are strong.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x265b0c",
+    "japanese": "またやろうぜ。↓じゃーな。",
+    "before": "Let's play again.↓Later.",
+    "after": "Let's play again. Later.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x265b88",
+    "japanese": "よーし！↓勝った！",
+    "before": "Yes!↓I won!",
+    "after": "Yes! I won!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 11
+  },
+  {
+    "offset": "0x265d10",
+    "japanese": "オレとか！↓よーし、はじめるぞ！",
+    "before": "Me?↓Right, let's start!",
+    "after": "Me? Right, let's start!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x265d54",
+    "japanese": "オレとやるのか。↓それじゃ、はじめよう。",
+    "before": "Playing me?↓All right, let's start.",
+    "after": "Playing me? All right,↓let's start.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x265da0",
+    "japanese": "帰るの？↓あ、そ。",
+    "before": "Going?↓Oh, okay.",
+    "after": "Going? Oh, okay.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 16
+  },
+  {
+    "offset": "0x265db4",
+    "japanese": "また来いよ。↓じゃーな。",
+    "before": "Come again.↓Later.",
+    "after": "Come again. Later.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 18
+  },
+  {
+    "offset": "0x265e3c",
+    "japanese": "負けたーっ！↓ちくしょーっ！",
+    "before": "I lost!↓Damn it!",
+    "after": "I lost! Damn it!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 16
+  },
+  {
+    "offset": "0x265e5c",
+    "japanese": "うん。↓内容もよかったぞ。",
+    "before": "Yes.↓Well played too.",
+    "after": "Yes. Well played too.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x265e78",
+    "japanese": "くそっ。↓本気でコイツに勝つために少し気合入れねーと。",
+    "before": "Damn! To beat you,↓I need to get serious.",
+    "after": "Damn! To beat you, I need↓to get serious.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x265eb0",
+    "japanese": "またやろうぜ。↓それじゃーな。",
+    "before": "Let's play again.↓Later.",
+    "after": "Let's play again. Later.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x265f94",
+    "japanese": "よしっ。↓勝ったぞ。",
+    "before": "Yes!↓I won!",
+    "after": "Yes! I won!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 11
+  },
+  {
+    "offset": "0x265fac",
+    "japanese": "惜しかったな。↓でも内容は悪くなかったぞ。",
+    "before": "Close.↓But you played well.",
+    "after": "Close. But you↓played well.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 14
+  },
+  {
+    "offset": "0x265fd8",
+    "japanese": "へへ、くやしかったらいつでも相手してやるぜ。",
+    "before": "Heh. Want revenge?↓I'll play you any time.",
+    "after": "Heh. Want revenge? I'll↓play you any time.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x2660b8",
+    "japanese": "ふう。↓オレの負けだ。",
+    "before": "Phew.↓I lost.",
+    "after": "Phew. I lost.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 13
+  },
+  {
+    "offset": "0x266144",
+    "japanese": "またやろう。↓次は負けないからな。",
+    "before": "Again!↓I won't lose next time.",
+    "after": "Again! I won't lose↓next time.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x266234",
+    "japanese": "よし。↓オレの勝ちだな。",
+    "before": "Right.↓I won.",
+    "after": "Right. I won.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 13
+  },
+  {
+    "offset": "0x266250",
+    "japanese": "$2も負けたけど、↓まァまァだったんじゃね－の？",
+    "before": "$2 lost,↓but played pretty well,↓right?",
+    "after": "$2 lost, but↓played pretty well, right?",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x266280",
+    "japanese": "ああ。↓油断したら危なかった。",
+    "before": "Yes. A slip could've cost↓me.",
+    "after": "Yes. A slip could've↓cost me.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x2662a0",
+    "japanese": "またやろう。↓次打つのを楽しみにしてるよ。",
+    "before": "Let's play again.↓I look forward to it.",
+    "after": "Let's play again. I look↓forward to it.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x2663fc",
+    "japanese": "$2は・・・↓ちゃんと最後まで見ますよね？",
+    "before": "$2...↓Watch to the end,↓won't you?",
+    "after": "$2... Watch to↓the end, won't you?",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x2664d0",
+    "japanese": "・・・あら？↓あっ！筒井さん！",
+    "before": "Oh?↓Ah! Tsutsui!",
+    "after": "Oh? Ah! Tsutsui!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 16
+  },
+  {
+    "offset": "0x2664f0",
+    "japanese": "あっ藤崎さん。↓偶然だな。↓藤崎さんも観戦？",
+    "before": "Oh, Fujisaki!↓Fancy that!↓Watching too?",
+    "after": "Oh, Fujisaki! Fancy that!↓Watching too?",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x266520",
+    "japanese": "ボクも決勝戦を観戦に来たんだ。",
+    "before": "I'm watching the final↓too.",
+    "after": "I'm watching the↓final too.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 16
+  },
+  {
+    "offset": "0x266558",
+    "japanese": "筒井さんは囲碁部の最初の部長で葉瀬中の囲碁部を作った人なのよ。",
+    "before": "Tsutsui founded↓the Haze Go club.↓Its first president!",
+    "after": "Tsutsui founded the Haze↓Go club. Its↓first president!",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x266670",
+    "japanese": "そうだ！↓ここの対局室でボクと打ってもらえないかな。",
+    "before": "I know! Will you↓play me in the↓playing room here?",
+    "after": "I know! Will you play me↓in the playing room here?",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x2666cc",
+    "japanese": "私、筒井さんと$1が打つのを見てみたい！",
+    "before": "$1,↓I want to see↓you play Tsutsui!",
+    "after": "$1, I want to↓see you play Tsutsui!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x26690c",
+    "japanese": "さすがだな・・・↓やっぱりかなわないや。",
+    "before": "As expected...↓I'm no match for you.",
+    "after": "As expected... I'm no↓match for you.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x2669a8",
+    "japanese": "今日はありがとう。↓楽しかった！↓それじゃ、またね。",
+    "before": "Thanks for today.↓That was fun!↓See you again.",
+    "after": "Thanks for today. That was↓fun! See you again.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x266b04",
+    "japanese": "ボクもまだまだ強くなってるんだ。",
+    "before": "I'm still↓getting stronger too.",
+    "after": "I'm still getting↓stronger too.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x266b6c",
+    "japanese": "今日はありがとう。↓さようなら。",
+    "before": "Thanks for today.↓Goodbye.",
+    "after": "Thanks for today. Goodbye.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x266d7c",
+    "japanese": "あ、$1。↓こんにちは。",
+    "before": "Oh, $1!↓Hello.",
+    "after": "Oh, $1! Hello.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x266e74",
+    "japanese": "そうか・・・しょうがないな。",
+    "before": "I see...↓Oh well.",
+    "after": "I see... Oh well.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x266e94",
+    "japanese": "それじゃ、↓また機会があればよろしくね。↓さようなら。",
+    "before": "Then please play me↓another time.↓Goodbye.",
+    "after": "Then please play me↓another time. Goodbye.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x266f24",
+    "japanese": "いい勉強になったよ。↓ありがとう。↓また機会があればお願いするね。",
+    "before": "I learned a lot.↓Thank you. Please↓play me again sometime.",
+    "after": "I learned a lot. Thank↓you. Please play me↓again sometime.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x267148",
+    "japanese": "広いイベント会場で、↓プロが指導碁を打ったり、↓講座を開いたりするんだ。",
+    "before": "In a large hall,↓pros give teaching games↓and hold lectures.",
+    "after": "In a large hall, pros give↓teaching games and↓hold lectures.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26733c",
+    "japanese": "いつの世も人々の碁に対する想いは変わらないのですね。",
+    "before": "In every age,↓people love Go↓just the same.",
+    "after": "In every age, people love↓Go just the same.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x267374",
+    "japanese": "おや？↓私、あの人知ってますよ。",
+    "before": "Oh?↓I know that man.",
+    "after": "Oh? I know that man.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x267434",
+    "japanese": "あ、キミもサイン？↓ちょっと待っててね。↓順番だから。",
+    "before": "You too?↓Wait a moment, please.↓One at a time.",
+    "after": "You too? Wait a moment,↓please. One at a time.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x2674f0",
+    "japanese": "・・・アレ？↓んー？",
+    "before": "Huh?↓Hmm?",
+    "after": "Huh? Hmm?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 9
+  },
+  {
+    "offset": "0x267524",
+    "japanese": "確か$3・・・、だったね。",
+    "before": "$3,↓was it?",
+    "after": "$3, was it?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x267540",
+    "japanese": "・・・うーん、ちょっとキミ、↓時間あるかな？",
+    "before": "Hmm...↓Do you have some time?",
+    "after": "Hmm... Do you have↓some time?",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 18
+  },
+  {
+    "offset": "0x2675b4",
+    "japanese": "二子置いて。↓よーし、じゃあいくよー。",
+    "before": "Take two stones.↓Right, here we go!",
+    "after": "Take two stones. Right,↓here we go!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x2677b8",
+    "japanese": "いやァ、最近の若いヤツはなかなか強いのが続いているからさ、",
+    "before": "So many strong↓young players↓have appeared lately.",
+    "after": "So many strong young↓players have↓appeared lately.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x267848",
+    "japanese": "あ、でも今日ここでオレに勝ったからってオレより強いなんて思っちゃダメだよ。",
+    "before": "But beating me here↓does not mean↓you are stronger!",
+    "after": "But beating me here does↓not mean you are stronger!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x2678c4",
+    "japanese": "まァ、勝ちは勝ちだ。↓はい、サイン。",
+    "before": "A win is a win.↓Here, my autograph.",
+    "after": "A win is a win. Here,↓my autograph.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x267a44",
+    "japanese": "まァ、フツーに考えて新初段がオレに勝つことなんて無理だよね。",
+    "before": "Well, normally a new↓1-dan cannot expect↓to beat me.",
+    "after": "Well, normally a new 1-dan↓cannot expect to beat me.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x267aac",
+    "japanese": "そうか・・・↓毎年出てくるわけじゃないのか。↓あいつらみたいなヤツは・・・",
+    "before": "I see... Players↓like those two do not↓appear every year...",
+    "after": "I see... Players like↓those two do not appear↓every year...",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x267af8",
+    "japanese": "うん。↓ありがとね。",
+    "before": "Yes.↓Thank you.",
+    "after": "Yes. Thank you.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 15
+  },
+  {
+    "offset": "0x267be0",
+    "japanese": "あ、アレ？↓キミ、また来たの？",
+    "before": "Oh?↓You are back?",
+    "after": "Oh? You are back?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x267c94",
+    "japanese": "別にいいよ。↓ちょうど時間空いてるし。",
+    "before": "Sure.↓I have some free time.",
+    "after": "Sure. I have some↓free time.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x267da0",
+    "japanese": "しょうがないなァ。↓もう一枚サイン書いてやるよ。",
+    "before": "All right, I will↓sign another for you.",
+    "after": "All right, I will sign↓another for you.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x267dd4",
+    "japanese": "え？いらないの？↓ホントに？",
+    "before": "What? No thanks?↓Really?",
+    "after": "What? No thanks? Really?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x267df4",
+    "japanese": "まァ、↓サイン欲しくなったらまた来いよ。",
+    "before": "Come back↓if you want an autograph.",
+    "after": "Come back if you want↓an autograph.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x267e20",
+    "japanese": "もちろん、またオレに勝たないとやらないけどな。↓はははは！",
+    "before": "Of course, you must↓beat me again first!↓Ha ha ha!",
+    "after": "Of course, you must beat↓me again first! Ha ha ha!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x267f6c",
+    "japanese": "持碁かァ。↓おしーなー。",
+    "before": "Jigo?↓So close!",
+    "after": "Jigo? So close!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 15
+  },
+  {
+    "offset": "0x268080",
+    "japanese": "うーん。↓じゃ、今回のサインは「倉」だけな。",
+    "before": "Hmm. I will sign↓just \"Kura\" this time.",
+    "after": "Hmm. I will sign just↓\"Kura\" this time.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x2680b0",
+    "japanese": "え？いらないの？↓いさぎいいね。",
+    "before": "No thanks? You take it↓well!",
+    "after": "No thanks? You take↓it well!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x2681cc",
+    "japanese": "また挑戦しに来なさい。↓さようなら。",
+    "before": "Come try again.↓Goodbye.",
+    "after": "Come try again. Goodbye.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x2682b8",
+    "japanese": "それではがんばってね。↓さようなら。",
+    "before": "Do your best.↓Goodbye.",
+    "after": "Do your best. Goodbye.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x268350",
+    "japanese": "こんにちは。↓キミは初めてだね？",
+    "before": "Hello.↓Your first visit?",
+    "after": "Hello. Your first visit?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x268374",
+    "japanese": "ここでは私が出す問題を解くことでキミの棋力を判定することができるんだ。",
+    "before": "Solve the problems I set,↓and I'll assess your Go↓strength.",
+    "after": "Solve the problems I set,↓and I'll assess your↓Go strength.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x268654",
+    "japanese": "前回の成績よりも下がってしまったね。",
+    "before": "Your result was lower this↓time.",
+    "after": "Your result was lower↓this time.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x26867c",
+    "japanese": "また問題集を勉強し直してみることをおすすめするよ。",
+    "before": "I suggest studying↓the problem book again.",
+    "after": "I suggest studying the↓problem book again.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x2686e0",
+    "japanese": "ではキミに新しい問題集をあげよう。",
+    "before": "Here is your↓new problem book.",
+    "after": "Here is your new↓problem book.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 16
+  },
+  {
+    "offset": "0x2688f4",
+    "japanese": "それではキミのこれからの活躍に期待しているよ。↓さようなら。",
+    "before": "I look forward to↓your future success.↓Goodbye.",
+    "after": "I look forward to your↓future success. Goodbye.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x268a84",
+    "japanese": "いらっしゃいませ。↓ここは初めてかな？",
+    "before": "Welcome.↓Your first visit?",
+    "after": "Welcome. Your first visit?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x268aac",
+    "japanese": "ここはインターネットカフェよ。↓サバイバル対局ができるの。",
+    "before": "This is an internet cafe.↓Play Survival matches↓here.",
+    "after": "This is an internet cafe.↓Play Survival↓matches here.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x268ebc",
+    "japanese": "おや？↓あれはあかりちゃんでは？",
+    "before": "Oh?↓Is that Akari?",
+    "after": "Oh? Is that Akari?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 18
+  },
+  {
+    "offset": "0x268ee0",
+    "japanese": "こんにちは。↓あなた、ここ初めて？",
+    "before": "Hello!↓First time here?",
+    "after": "Hello! First time here?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x268f3c",
+    "japanese": "あなたは？↓$1？↓ふーん、初心者なんだ。",
+    "before": "And you?↓$1?↓Oh, a beginner.",
+    "after": "And you? $1? Oh,↓a beginner.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x2690b0",
+    "japanese": "すごーい。↓あなた、すごく強いよ！",
+    "before": "Wow!↓You're really good!",
+    "after": "Wow! You're really good!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x269128",
+    "japanese": "えー！↓葉瀬中！？一年生！？↓じゃ、囲碁部に入りなよ！",
+    "before": "What?!↓First year at Haze?!↓Join the Go club!",
+    "after": "What?! First year at↓Haze?! Join the Go club!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x269160",
+    "japanese": "私も葉瀬中囲碁部だったんだけど、もう三年生だから引退しちゃったんだ。",
+    "before": "I was in Haze's Go club.↓In my third year now, I've↓retired.",
+    "after": "I was in Haze's Go club.↓In my third year now,↓I've retired.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x2691a8",
+    "japanese": "今、囲碁部は小池くんっていう二年生が部長でがんばっているの。",
+    "before": "Koike, a second-year, is↓working hard to lead the↓club.",
+    "after": "Koike, a second-year, is↓working hard to lead↓the club.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x2691e8",
+    "japanese": "あなたみたいな強い子が入ったら小池くん喜ぶよ！",
+    "before": "You're so strong!↓Koike will be thrilled!",
+    "after": "You're so strong! Koike↓will be thrilled!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x269294",
+    "japanese": "約束したよ！↓じゃあね！",
+    "before": "You promised!↓See you!",
+    "after": "You promised! See you!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x269390",
+    "japanese": "やった！↓勝っちゃった！",
+    "before": "Yay!↓I won!",
+    "after": "Yay! I won!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 11
+  },
+  {
+    "offset": "0x2693ac",
+    "japanese": "まだ私と対局するのはちょっと早↓かったのかな？↓ふふふ。",
+    "before": "Maybe it was too soon↓for you to play me?↓Hee hee.",
+    "after": "Maybe it was too soon for↓you to play me? Hee hee.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x2693e8",
+    "japanese": "また対局しましょう。↓今日は楽しかったよ。↓ありがとう。",
+    "before": "Let's play again.↓That was fun today.↓Thanks!",
+    "after": "Let's play again. That was↓fun today. Thanks!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x269484",
+    "japanese": "$1！↓こんにちは！",
+    "before": "$1!↓Hello!",
+    "after": "$1! Hello!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x2694f4",
+    "japanese": "ホント！？↓ありがとう！",
+    "before": "Really?!↓Thanks!",
+    "after": "Really?! Thanks!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 16
+  },
+  {
+    "offset": "0x2696cc",
+    "japanese": "やった!↓今日は勝ったよ！",
+    "before": "Yay!↓I won today!",
+    "after": "Yay! I won today!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x269768",
+    "japanese": "今先生に聞いたんだけど、↓日本棋院でアマチュアの大会があるらしいの。",
+    "before": "My teacher told me↓about an amateur event↓at the Nihon Ki-in.",
+    "after": "My teacher told me about↓an amateur event at the↓Nihon Ki-in.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x269828",
+    "japanese": "$1みたいな強い人と観戦すればためになるかなって思うの。",
+    "before": "I'd learn a lot↓watching with you,↓$1.",
+    "after": "I'd learn a lot watching↓with you, $1.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x269860",
+    "japanese": "会場は棋院の大ホールよ。↓会場で会ったときにはよろしくね。",
+    "before": "It's in the main hall↓at the Ki-in.↓See you there!",
+    "after": "It's in the main hall at↓the Ki-in. See you there!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x2699ac",
+    "japanese": "あ！↓もしかして藤崎先輩が言ってた一年生！？",
+    "before": "The first-year↓Fujisaki told me about?!",
+    "after": "The first-year Fujisaki↓told me about?!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x269a24",
+    "japanese": "え！↓他の部員・・・？",
+    "before": "Eh?↓Other members...?",
+    "after": "Eh? Other members...?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x269a3c",
+    "japanese": "・・・え、ええっと・・・↓・・・いや実は今、↓部員はボク一人なんだ・・・",
+    "before": "...Uh, well...↓Actually...↓I am the only member now.",
+    "after": "...Uh, well... Actually...↓I am the only member now.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x269a88",
+    "japanese": "前はもっといたんだけど、三年生でみんな抜けちゃったんだ・・・",
+    "before": "There were more,↓but all the third-years↓have left...",
+    "after": "There were more, but all↓the third-years↓have left...",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x269af8",
+    "japanese": "たった一人か。↓なんだよ、囲碁部はまたふりだし↓じゃねーか。",
+    "before": "Only one?↓The Go club is right↓back where it started.",
+    "after": "Only one? The Go club is↓right back where↓it started.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x269bec",
+    "japanese": "ここの囲碁部を一人で作ったっていう伝説の筒井先輩ですね！",
+    "before": "The great Tsutsui,↓who built the club↓all by himself?!",
+    "after": "The great Tsutsui, who↓built the club all↓by himself?!",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x269c90",
+    "japanese": "（オモシレエ、↓　オレのこと筒井と思ってやがる）",
+    "before": "(This is rich.↓He thinks I am Tsutsui!)",
+    "after": "(This is rich. He thinks I↓am Tsutsui!)",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x269d0c",
+    "japanese": "よし。↓部員集めに協力してやろう。",
+    "before": "Right.↓I'll help find members.",
+    "after": "Right. I'll help↓find members.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 16
+  },
+  {
+    "offset": "0x269fc4",
+    "japanese": "すごい・・・筒井先輩も強いけど、$1はもっとすごい！",
+    "before": "Tsutsui is good,↓but you are better,↓$1!",
+    "after": "Tsutsui is good, but you↓are better, $1!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x269ff8",
+    "japanese": "おい、おまえ。↓囲碁部はいいから院生になれ。",
+    "before": "Hey, you.↓Forget the club.↓Be an insei.",
+    "after": "Hey, you. Forget the club.↓Be an insei.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26a028",
+    "japanese": "ええっ！↓そんなァ！",
+    "before": "What?!↓No way!",
+    "after": "What?! No way!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 14
+  },
+  {
+    "offset": "0x26a088",
+    "japanese": "そのぐらいコイツの実力見りゃわかるだろう。",
+    "before": "You can tell↓from how this kid plays.",
+    "after": "You can tell from how this↓kid plays.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26a104",
+    "japanese": "知らねーよ。↓そういや、前にもコイツみてーなヤツがいたな。",
+    "before": "Who knows?↓Come to think of it,↓there was another kid...",
+    "after": "Who knows? Come to think↓of it, there was↓another kid...",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26a140",
+    "japanese": "前・・・？↓院生・・・↓進藤先輩のことですね！",
+    "before": "Another kid?↓An insei...↓You mean Shindo!",
+    "after": "Another kid? An insei...↓You mean Shindo!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26a1a0",
+    "japanese": "囲碁部は前にも今日みたいなことを経験しているんだ。",
+    "before": "The club has been↓through this before!",
+    "after": "The club has been through↓this before!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26a1d4",
+    "japanese": "そうか！↓こうやって囲碁部は成長していったんだ！",
+    "before": "I see!↓That's how our Go club↓grew over time!",
+    "after": "I see! That's how our Go↓club grew over time!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26a27c",
+    "japanese": "がんばってね！↓$1！",
+    "before": "Good luck!↓$1!",
+    "after": "Good luck! $1!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26a2e4",
+    "japanese": "あの、筒井先輩。↓今度はボクと打ってもらえないで↓しょうか？",
+    "before": "Um, Tsutsui...↓Could you play me↓next time?",
+    "after": "Um, Tsutsui... Could you↓play me next time?",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26a324",
+    "japanese": "おっと、ワリィな。↓オレもそんなヒマじゃねーんだ。",
+    "before": "Whoops, sorry.↓I don't have all day.",
+    "after": "Whoops, sorry. I don't↓have all day.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x26a358",
+    "japanese": "そろそろ将棋部のほうに行かねー↓と・・・",
+    "before": "I ought to get↓to the shogi club...",
+    "after": "I ought to get to the↓shogi club...",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x26a384",
+    "japanese": "え？↓将棋？",
+    "before": "Huh?↓Shogi?",
+    "after": "Huh? Shogi?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 11
+  },
+  {
+    "offset": "0x26a394",
+    "japanese": "な、何でもねーよ！↓おまえとはまたな。↓じゃ、あばよ。",
+    "before": "N-never mind!↓See you some other time.↓Later!",
+    "after": "N-never mind! See you some↓other time. Later!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26a600",
+    "japanese": "すごい！↓筒井先輩ってすごいや！",
+    "before": "Wow!↓Tsutsui is amazing!",
+    "after": "Wow! Tsutsui is amazing!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26a8d4",
+    "japanese": "おっと。↓まァ、おまえにはどうでもいいことだ。",
+    "before": "Oops. Well,↓none of your business.",
+    "after": "Oops. Well, none of↓your business.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x26a904",
+    "japanese": "なんだ？また伝説の筒井サマに相手してもらいてーのか？",
+    "before": "Want to play the↓legendary Tsutsui again?",
+    "after": "Want to play the legendary↓Tsutsui again?",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26a9ac",
+    "japanese": "しょうがねェ。↓じゃ、↓今日は二子置かせてもらおうか。",
+    "before": "All right.↓Give me two stones↓this time.",
+    "after": "All right. Give me two↓stones this time.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x26aa3c",
+    "japanese": "じゃーな。↓あばよ。",
+    "before": "See you.↓Later.",
+    "after": "See you. Later.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 15
+  },
+  {
+    "offset": "0x26aa54",
+    "japanese": "あ、$1。↓どうしたの？",
+    "before": "$1!↓What is it?",
+    "after": "$1! What is it?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26aa6c",
+    "japanese": "え！？↓今日も筒井先輩が来てる？",
+    "before": "What?!↓Tsutsui is here again?",
+    "after": "What?! Tsutsui is↓here again?",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x26aac0",
+    "japanese": "じゃ、ボク、↓筒井先輩探しに行くね！",
+    "before": "I'll go look↓for Tsutsui!",
+    "after": "I'll go look for Tsutsui!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26ad0c",
+    "japanese": "やっぱりおめえにゃ囲碁部がお似合いだったかもなァ。",
+    "before": "Maybe the Go club↓suits you after all.",
+    "after": "Maybe the Go club suits↓you after all.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x26ad40",
+    "japanese": "精進しろよ。↓じゃーな。",
+    "before": "Keep at it.↓Later.",
+    "after": "Keep at it. Later.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 18
+  },
+  {
+    "offset": "0x26ae38",
+    "japanese": "今日はボクしかいないんだ。↓ボクでよければ対局してもらいたいんだけど・・・",
+    "before": "It's just me today. If you↓don't mind, would you play↓me?",
+    "after": "It's just me today. If you↓don't mind, would you↓play me?",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26aea4",
+    "japanese": "そうだ！↓三谷先輩に相手してもらったら！",
+    "before": "I know!↓Why not play Mitani?",
+    "after": "I know! Why not↓play Mitani?",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 15
+  },
+  {
+    "offset": "0x26afa0",
+    "japanese": "きっと三谷先輩も喜んで対局してくれるよ！",
+    "before": "I'm sure Mitani↓will gladly play you!",
+    "after": "I'm sure Mitani will↓gladly play you!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x26b094",
+    "japanese": "また伝説の筒井サマに・・・↓あ？↓本物の筒井に会った？",
+    "before": "Legendary Tsutsui...↓Huh? You met↓the real Tsutsui?",
+    "after": "Legendary Tsutsui... Huh?↓You met the real Tsutsui?",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26b164",
+    "japanese": "おっと、時間がねェ。↓じゃな。",
+    "before": "Oops, out of time.↓Later.",
+    "after": "Oops, out of time. Later.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26b29c",
+    "japanese": "どうする、またやるか？↓やんねーのか？",
+    "before": "Well? Play again?↓Or not?",
+    "after": "Well? Play again? Or not?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26b3dc",
+    "japanese": "でも、いきなりは受けることはできないんだ。",
+    "before": "You cannot just↓take it unannounced.",
+    "after": "You cannot just take↓it unannounced.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x26b44c",
+    "japanese": "あ、桑原先生。↓こんにちは。",
+    "before": "Oh, Mr Kuwabara.↓Hello.",
+    "after": "Oh, Mr Kuwabara. Hello.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x26b46c",
+    "japanese": "あ！↓この人、私以前にも会ったことがあります！",
+    "before": "Oh!↓I have met this man↓before!",
+    "after": "Oh! I have met this↓man before!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x26b49c",
+    "japanese": "・・・あれ？↓なんだか私をにらんでませんか？",
+    "before": "Huh?↓Is he glaring at me?",
+    "after": "Huh? Is he glaring at me?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26b4e4",
+    "japanese": "ええ。院生試験を受けに来た子なのですが、何も持たずに来てしまったようで・・・",
+    "before": "Here for the insei exam,↓but without any of the↓paperwork...",
+    "after": "Here for the insei exam,↓but without any of↓the paperwork...",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26b5d8",
+    "japanese": "はっ？↓かまいませんが・・・↓なぜ・・・？",
+    "before": "What?↓That is fine, but...↓Why...?",
+    "after": "What? That is fine,↓but... Why...?",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x26b670",
+    "japanese": "フム。↓どうせなら、↓ワシが院生試験をしてやろう。",
+    "before": "Hmm. I shall give↓the insei exam myself.",
+    "after": "Hmm. I shall give the↓insei exam myself.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x26b6d4",
+    "japanese": "え？↓ええ・・・",
+    "before": "Huh?↓Well...",
+    "after": "Huh? Well...",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 12
+  },
+  {
+    "offset": "0x26b70c",
+    "japanese": "え！↓今からですか？",
+    "before": "What?↓Right now?",
+    "after": "What? Right now?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 16
+  },
+  {
+    "offset": "0x26b724",
+    "japanese": "そうじゃ。↓書類なんて後でもかまうまい。",
+    "before": "Yes. The paperwork↓can wait till later.",
+    "after": "Yes. The paperwork can↓wait till later.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x26b9a0",
+    "japanese": "そうですね、↓十分に力があると思います。",
+    "before": "Yes, I think you're strong↓enough.",
+    "after": "Yes, I think you're↓strong enough.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x26ba10",
+    "japanese": "さすがワシのシックスセンスじゃ。狂いがないわ。↓ひゃっひゃっひゃっ。",
+    "before": "My sixth sense↓never fails me.↓Heh heh heh!",
+    "after": "My sixth sense never fails↓me. Heh heh heh!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26ba58",
+    "japanese": "そうじゃ、↓名前を聞いておらんかったな。",
+    "before": "Oh, I never↓asked your name.",
+    "after": "Oh, I never asked↓your name.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x26babc",
+    "japanese": "まァ異例のことだが、合格は合格だ。次の院生研修から参加するといい。",
+    "before": "It's unusual, but you↓pass. Join the next insei↓training.",
+    "after": "It's unusual, but you↓pass. Join the next↓insei training.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x26bb00",
+    "japanese": "研修はここの洗心の間で行われるよ。",
+    "before": "Training's in the Senshin↓Room.",
+    "after": "Training's in the↓Senshin Room.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x26bc74",
+    "japanese": "そうですね、↓今一つ物足りないかと・・・",
+    "before": "Well...↓Not quite strong enough.",
+    "after": "Well... Not quite↓strong enough.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x26bca0",
+    "japanese": "うーむ。↓やはりそうかのう。",
+    "before": "Hmm.↓I see.",
+    "after": "Hmm. I see.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 11
+  },
+  {
+    "offset": "0x26bcc0",
+    "japanese": "篠田さん、↓無理を言ってすまんかったな。",
+    "before": "Shinoda, sorry↓for imposing on you.",
+    "after": "Shinoda, sorry for↓imposing on you.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 18
+  },
+  {
+    "offset": "0x26bcec",
+    "japanese": "$4、残念だったな。",
+    "before": "$4,↓too bad.",
+    "after": "$4, too bad.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x26bd68",
+    "japanese": "だが桑原先生はキミのことを期待しておられるようだ。",
+    "before": "But Kuwabara↓seems to have↓high hopes for you.",
+    "after": "But Kuwabara seems to have↓high hopes for you.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26bf88",
+    "japanese": "あなた、桑原先生の推薦で院生に↓なったんですってね？",
+    "before": "Kuwabara recommended↓you to be an insei,↓right?",
+    "after": "Kuwabara recommended you↓to be an insei, right?",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26c000",
+    "japanese": "え？↓棋院で一度会ったきり？",
+    "before": "Once at the Ki-in?↓Really?",
+    "after": "Once at the Ki-in? Really?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26c020",
+    "japanese": "その場で院生試験を代わりに？",
+    "before": "He tested you↓on the spot?",
+    "after": "He tested you on the spot?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26c088",
+    "japanese": "ま、実際に対局すればそれはすぐわかるわね。",
+    "before": "Well, a game will↓soon settle that.",
+    "after": "Well, a game will soon↓settle that.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x26c24c",
+    "japanese": "プロ試験じゃ、↓あなたが強敵になりそうね。",
+    "before": "A tough rival↓in the pro exam, then.",
+    "after": "A tough rival in the pro↓exam, then.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26c278",
+    "japanese": "わかっていると思うけど、プロ試験は棋院じゃないわよ。囲碁研修センターでやるんだからね。",
+    "before": "The pro exam is at↓the Go Training Centre,↓not the Ki-in.",
+    "after": "The pro exam is at the Go↓Training Centre, not↓the Ki-in.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26c4fc",
+    "japanese": "$2！↓こんにちは。",
+    "before": "$2!↓Hello.",
+    "after": "$2! Hello.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x26c584",
+    "japanese": "それじゃ１３路盤で私が黒を持つわよ！",
+    "before": "13x13, then.↓I will take Black!",
+    "after": "13x13, then. I will↓take Black!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x26c5f4",
+    "japanese": "そう。↓なら仕方ないっか。",
+    "before": "Oh.↓Well, never mind.",
+    "after": "Oh. Well, never mind.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x26c610",
+    "japanese": "それじゃまた今度ね。↓バイバイ。",
+    "before": "Another time, then.↓Bye.",
+    "after": "Another time, then. Bye.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26c6d0",
+    "japanese": "またお願いね。↓バイバイ。",
+    "before": "Play me again.↓Bye.",
+    "after": "Play me again. Bye.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x26c74c",
+    "japanese": "よし！↓今日は勝ったわ！",
+    "before": "Yes!↓I won today!",
+    "after": "Yes! I won today!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x26c768",
+    "japanese": "これで$2に対する苦手意識を克服したわ！",
+    "before": "$2!↓No more fear↓of playing you!",
+    "after": "$2! No more fear↓of playing you!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26c824",
+    "japanese": "プロ試験・・・この戦いの中で生き残ることができれば・・・",
+    "before": "The pro exam...↓If you can survive↓this battle...",
+    "after": "The pro exam... If you can↓survive this battle...",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26c8a4",
+    "japanese": "私はもう不合格が決まっちゃったけど・・・",
+    "before": "I already know↓I cannot pass, but...",
+    "after": "I already know I cannot↓pass, but...",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x26c8d0",
+    "japanese": "あなたは今日勝てば合格なのよね。",
+    "before": "Win today,↓and you pass, right?",
+    "after": "Win today, and you↓pass, right?",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 18
+  },
+  {
+    "offset": "0x26c944",
+    "japanese": "そうよ。↓伊角くんの今日の相手。",
+    "before": "Yes.↓Your opponent today.",
+    "after": "Yes. Your opponent today.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26c968",
+    "japanese": "そうか。↓伊角慎一郎だ。↓今日はよろしくな。",
+    "before": "Isumi Shinichiro.↓Let us have a good game.",
+    "after": "Isumi Shinichiro. Let us↓have a good game.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26c998",
+    "japanese": "去年までオレも院生だったんだけど、キミは今年入ったんだな。",
+    "before": "I was an insei↓until last year.↓You joined this year?",
+    "after": "I was an insei until last↓year. You joined↓this year?",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26c9d4",
+    "japanese": "それがもう合格まで届くところにいる。",
+    "before": "And you're so close to↓passing.",
+    "after": "And you're so close↓to passing.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x26ca18",
+    "japanese": "そうね。↓進藤もあっという間にプロになっ↓ちゃったものね。",
+    "before": "Yes. Shindo became↓a pro in no time too.",
+    "after": "Yes. Shindo became a pro↓in no time too.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26cb50",
+    "japanese": "あなたも運悪いわね。↓ふふふ。",
+    "before": "Bad luck for you!↓Hee hee.",
+    "after": "Bad luck for you! Hee hee.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26cd5c",
+    "japanese": "まいった。↓オレの完敗だ。",
+    "before": "I resign.↓A total defeat.",
+    "after": "I resign. A total defeat.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26cda0",
+    "japanese": "またプロの手合いでやれるのを楽しみにしているよ。",
+    "before": "I look forward to↓our next game as pros.",
+    "after": "I look forward to our next↓game as pros.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26cee8",
+    "japanese": "それでは今後のキミの活躍に期待しているよ。",
+    "before": "I look forward to↓your future success.",
+    "after": "I look forward to your↓future success.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x26d048",
+    "japanese": "はい上がってこい。↓また戦える日を楽しみにしている。",
+    "before": "Climb back up.↓I look forward to↓facing you again.",
+    "after": "Climb back up. I look↓forward to facing↓you again.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x26d0e0",
+    "japanese": "あなたの棋士としての生活がこの対局からはじまっていくのですね。",
+    "before": "Your life as a pro↓begins with this game.",
+    "after": "Your life as a pro begins↓with this game.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26d170",
+    "japanese": "おまえの相手は緒方先生か。↓どうだ？↓緊張してないか？",
+    "before": "Your opponent is Ogata?↓Well?↓Are you nervous?",
+    "after": "Your opponent is Ogata?↓Well? Are you nervous?",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x26d1e4",
+    "japanese": "オレ達より一つ先輩で年はおまえよりも三才上だな。",
+    "before": "A year ahead of us,↓3 years older↓than you.",
+    "after": "A year ahead of us, 3↓years older than you.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x26d218",
+    "japanese": "先輩なんてよしてくれよ、↓伊角さん！",
+    "before": "No need for \"senior\",↓Isumi!",
+    "after": "No need for↓\"senior\", Isumi!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 16
+  },
+  {
+    "offset": "0x26d25c",
+    "japanese": "そうそう、伊角さん！↓オレ、アパート暮らしはじめたんだ。",
+    "before": "Oh, Isumi!↓I have started living↓in my own apartment.",
+    "after": "Oh, Isumi! I have started↓living in my↓own apartment.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26d340",
+    "japanese": "じゃ、↓今日の対局の結果で決めてやるよ。",
+    "before": "I will decide↓after your game today.",
+    "after": "I will decide after your↓game today.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26d398",
+    "japanese": "おいおい。↓あまりプレッシャーかけるなよ。",
+    "before": "Hey, ease up on the↓pressure.",
+    "after": "Hey, ease up on↓the pressure.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 15
+  },
+  {
+    "offset": "0x26d420",
+    "japanese": "ふふん。↓がんばってな。",
+    "before": "Heh.↓Good luck.",
+    "after": "Heh. Good luck.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 15
+  },
+  {
+    "offset": "0x26d43c",
+    "japanese": "キミが$3か。↓緒方だ。↓よろしく。",
+    "before": "$3?↓I am Ogata.↓A pleasure.",
+    "after": "$3? I am Ogata.↓A pleasure.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26d460",
+    "japanese": "気後れしないで全力で打ちなさい。いつかそれがキミの財産になる。",
+    "before": "Don't be intimidated. Give↓your all. It'll serve you↓well.",
+    "after": "Don't be intimidated. Give↓your all. It'll serve↓you well.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26d694",
+    "japanese": "いい碁だった。↓キミの将来が楽しみだ。",
+    "before": "Good game.↓Your future looks bright.",
+    "after": "Good game. Your future↓looks bright.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x26d6bc",
+    "japanese": "・・・いつか本当の勝負をするときがくるかもしれん。",
+    "before": "Someday we may↓face each other↓in a true match.",
+    "after": "Someday we may face each↓other in a true match.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26d6f0",
+    "japanese": "そのときは・・・↓今回のようにいくと思うな！",
+    "before": "Then...↓Do not expect↓a game like this!",
+    "after": "Then... Do not expect a↓game like this!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x26d8f0",
+    "japanese": "休んでる？↓どうして？↓病気か？",
+    "before": "Missing games?↓Why?↓Is he ill?",
+    "after": "Missing games? Why? Is↓he ill?",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x26d9a4",
+    "japanese": "人のことより自分のこと！↓プロになったこれからが勝負なんだぜ！",
+    "before": "Let's focus on us! Now↓we're pros, the real fight↓begins!",
+    "after": "Let's focus on us! Now↓we're pros, the real↓fight begins!",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x26d9e4",
+    "japanese": "オレんちはホラ、↓地図書いてやったぜ。↓じゃ、またな！",
+    "before": "Here is my place.↓I drew you a map.↓See you!",
+    "after": "Here is my place. I drew↓you a map. See you!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26dd88",
+    "japanese": "よう、残念。↓緒方十段に完敗、だな。",
+    "before": "A total loss↓to Ogata Judan.↓Pity.",
+    "after": "A total loss to Ogata↓Judan. Pity.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x26df34",
+    "japanese": "なんだかすまなかったな。↓じゃ、またな。",
+    "before": "Sorry about that.↓See you again.",
+    "after": "Sorry about that. See↓you again.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x26e0e4",
+    "japanese": "気持ちを高めたくてつい足を運んでしまう。↓フッ・・・",
+    "before": "I come here to↓lift my spirits.↓Heh...",
+    "after": "I come here to lift my↓spirits. Heh...",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x26e128",
+    "japanese": "せっかくだ。↓また一局打ってやろうか。",
+    "before": "You are here, so↓shall we play again?",
+    "after": "You are here, so shall we↓play again?",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26e1c0",
+    "japanese": "よし、ならば別の部屋に行こう。",
+    "before": "Good. Let's try another↓room.",
+    "after": "Good. Let's try↓another room.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 15
+  },
+  {
+    "offset": "0x26e1e0",
+    "japanese": "ここはあまり安易に対局する場所↓じゃないからな。",
+    "before": "This is no place↓for a casual game.",
+    "after": "This is no place for a↓casual game.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x26e250",
+    "japanese": "キミとはまたやる機会もあるだろう。",
+    "before": "Another chance↓to play will come.",
+    "after": "Another chance to play↓will come.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x26e274",
+    "japanese": "それまで、↓しっかり力をつけておけよ。",
+    "before": "Until then,↓build your strength.",
+    "after": "Until then, build↓your strength.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x26e2ec",
+    "japanese": "どうだ、また一局打ってやろうか。",
+    "before": "Well?↓Shall we play again?",
+    "after": "Well? Shall we play again?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26e368",
+    "japanese": "キミと本気でやり合う日もそう遠くないかもしれない。",
+    "before": "A serious contest↓between us may not↓be far off.",
+    "after": "A serious contest between↓us may not be far off.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26e474",
+    "japanese": "オレを失望させないようにがんばってくれよ。↓フッ・・・",
+    "before": "Work hard.↓Do not disappoint me.↓Heh...",
+    "after": "Work hard. Do not↓disappoint me. Heh...",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x26e538",
+    "japanese": "私は以前、そのヒカルの心に住まわせてもらっていたのです。",
+    "before": "I once lived↓within Hikaru's heart.",
+    "after": "I once lived within↓Hikaru's heart.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x26e574",
+    "japanese": "ヒカルが手合いに出ていないと↓は・・・",
+    "before": "Hikaru is↓missing his matches...?",
+    "after": "Hikaru is missing↓his matches...?",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x26e66c",
+    "japanese": "わー！↓ヒカルー！",
+    "before": "Ah!↓Hikaru!",
+    "after": "Ah! Hikaru!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 11
+  },
+  {
+    "offset": "0x26e680",
+    "japanese": "？↓どなた様ですか？",
+    "before": "Huh?↓Who are you?",
+    "after": "Huh? Who are you?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x26e698",
+    "japanese": "会いたかったですー！↓ヒカルー！",
+    "before": "I missed you!↓Hikaru!",
+    "after": "I missed you! Hikaru!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x26e6f0",
+    "japanese": "あれ？↓ヒカル？",
+    "before": "Huh?↓Hikaru?",
+    "after": "Huh? Hikaru?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 12
+  },
+  {
+    "offset": "0x26e730",
+    "japanese": "ヒカル？ヒカル？↓あれ？あれ？",
+    "before": "Hikaru? Hikaru?↓Huh? Huh?",
+    "after": "Hikaru? Hikaru? Huh? Huh?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26e750",
+    "japanese": "で、オレに何の用？↓あ、オレと打ちたいとかそういう↓の？",
+    "before": "What do you want?↓Oh, to play me↓or something?",
+    "after": "What do you want? Oh, to↓play me or something?",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26e7dc",
+    "japanese": "・・・帰ってくれ。↓じゃあな。",
+    "before": "Please leave...↓See you.",
+    "after": "Please leave... See you.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26e91c",
+    "japanese": "今の私にはヒカルに何もしてあげることはできません。",
+    "before": "As I am now,↓I can do nothing↓for Hikaru.",
+    "after": "As I am now, I can do↓nothing for Hikaru.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x26ec0c",
+    "japanese": "$2、行きましょう・・・",
+    "before": "$2,↓let us go...",
+    "after": "$2, let us go...",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26ed14",
+    "japanese": "ほー、和谷はこんな所に住んでいるんですかー。",
+    "before": "Oh, so this is↓where Waya lives.",
+    "after": "Oh, so this is where↓Waya lives.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x26ede0",
+    "japanese": "ちょっといつもよりも少ねーな。↓うーん。",
+    "before": "Fewer than usual.↓Hmm...",
+    "after": "Fewer than usual. Hmm...",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26ee0c",
+    "japanese": "そうだ！↓なァ、四人でペア碁やんねーか！↓ペア碁！",
+    "before": "I know!↓How about pair Go?↓The four of us!",
+    "after": "I know! How about pair Go?↓The four of us!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26eedc",
+    "japanese": "はは、オレ達の歓迎対局か。↓おもしろそうだな。",
+    "before": "Our welcome game?↓Ha ha, sounds fun.",
+    "after": "Our welcome game? Ha ha,↓sounds fun.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26ef0c",
+    "japanese": "そうね。↓うん。賛成！",
+    "before": "Yes.↓I agree!",
+    "after": "Yes. I agree!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 13
+  },
+  {
+    "offset": "0x26ef3c",
+    "japanese": "よし！↓それじゃはじめるぞ！",
+    "before": "Right!↓Let's get started!",
+    "after": "Right! Let's get started!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26f14c",
+    "japanese": "ふう。↓どうだった。",
+    "before": "Phew.↓How was it?",
+    "after": "Phew. How was it?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x26f17c",
+    "japanese": "私は伊角くんについていくので精一杯だったわ。",
+    "before": "I could barely↓keep up with Isumi.",
+    "after": "I could barely keep up↓with Isumi.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x26f1c4",
+    "japanese": "たまにはいいよな。↓またやろうぜ。",
+    "before": "A nice change.↓Let's play again.",
+    "after": "A nice change. Let's↓play again.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x26f224",
+    "japanese": "へー。↓そうなんだ。",
+    "before": "Oh?↓Is that so?",
+    "after": "Oh? Is that so?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 15
+  },
+  {
+    "offset": "0x26f288",
+    "japanese": "越智ってプロになってからの成績ってどうなの？",
+    "before": "How has Ochi done↓since turning pro?",
+    "after": "How has Ochi done since↓turning pro?",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x26f3cc",
+    "japanese": "また来いよ。↓じゃーな！",
+    "before": "Come again!↓Later!",
+    "after": "Come again! Later!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 18
+  },
+  {
+    "offset": "0x26f644",
+    "japanese": "よし！↓じゃ、はじめるぞ。",
+    "before": "Right!↓Let's start!",
+    "after": "Right! Let's start!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x26f698",
+    "japanese": "じゃ、何しに来たんだよおまえ！",
+    "before": "Then what did↓you come for?!",
+    "after": "Then what did you↓come for?!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x26f730",
+    "japanese": "うーん。↓やっぱりおまえ、↓伊角さんに勝っただけあるよなァ。",
+    "before": "Hmm. No wonder↓you beat Isumi.↓You really are strong.",
+    "after": "Hmm. No wonder you beat↓Isumi. You really↓are strong.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x26f7b8",
+    "japanese": "またやろうぜ。↓じゃーな。",
+    "before": "Let's play again.↓Later.",
+    "after": "Let's play again. Later.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26f834",
+    "japanese": "よーし！↓勝った！",
+    "before": "Yes!↓I won!",
+    "after": "Yes! I won!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 11
+  },
+  {
+    "offset": "0x26f9bc",
+    "japanese": "負けたーっ！↓ちくしょーっ！",
+    "before": "I lost!↓Damn it!",
+    "after": "I lost! Damn it!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 16
+  },
+  {
+    "offset": "0x26f9dc",
+    "japanese": "うん。↓内容もよかったぞ。",
+    "before": "Yes.↓Well played too.",
+    "after": "Yes. Well played too.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x26f9f8",
+    "japanese": "くそっ。↓本気でコイツに勝つために少し気合入れねーと。",
+    "before": "Damn! To beat you,↓I need to get serious.",
+    "after": "Damn! To beat you, I need↓to get serious.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26fa30",
+    "japanese": "またやろうぜ。↓それじゃーな。",
+    "before": "Let's play again.↓Later.",
+    "after": "Let's play again. Later.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x26fb14",
+    "japanese": "よしっ。↓勝ったぞ。",
+    "before": "Yes!↓I won!",
+    "after": "Yes! I won!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 11
+  },
+  {
+    "offset": "0x26fb2c",
+    "japanese": "惜しかったな。↓でも内容は悪くなかったぞ。",
+    "before": "Close.↓But you played well.",
+    "after": "Close. But you↓played well.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 14
+  },
+  {
+    "offset": "0x26fb58",
+    "japanese": "へへ、くやしかったらいつでも相手してやるぜ。",
+    "before": "Heh. Want revenge?↓I'll play you any time.",
+    "after": "Heh. Want revenge? I'll↓play you any time.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x26fcd0",
+    "japanese": "なんでも、全勝中だった伊角さんに勝っての合格だとか。",
+    "before": "You passed by beating↓the unbeaten Isumi,↓I hear.",
+    "after": "You passed by beating the↓unbeaten Isumi, I hear.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x26fd08",
+    "japanese": "ずいぶん周りの評価も高いみたいだ。",
+    "before": "People seem to↓rate you highly.",
+    "after": "People seem to rate↓you highly.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x26fe78",
+    "japanese": "そうだ、↓今のコイツには勢いがあった。",
+    "before": "Yes, just a bit of↓momentum.",
+    "after": "Yes, just a bit↓of momentum.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 15
+  },
+  {
+    "offset": "0x26fea0",
+    "japanese": "それだけだ。↓実力差じゃない。",
+    "before": "That's all. No gap in↓skill.",
+    "after": "That's all. No gap↓in skill.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 18
+  },
+  {
+    "offset": "0x26fec0",
+    "japanese": "フン。↓いつまでも勢いだけで勝っていけるはずがないよ。",
+    "before": "Hmph. You cannot↓keep winning on↓momentum forever.",
+    "after": "Hmph. You cannot keep↓winning on↓momentum forever.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x26ff2c",
+    "japanese": "ボクは塔矢アキラ。↓今の越智くんとの対局を見せても↓らった。",
+    "before": "I am Toya Akira.↓I watched your game↓against Ochi.",
+    "after": "I am Toya Akira. I watched↓your game against Ochi.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26ff9c",
+    "japanese": "突然だがキミに折り入ってお願いがある。",
+    "before": "This is sudden,↓but I have a request.",
+    "after": "This is sudden, but I have↓a request.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x26ffc4",
+    "japanese": "今度、ボクの家で経営してる碁会所に来て欲しいんだ。",
+    "before": "Please visit↓the Go salon↓my family runs.",
+    "after": "Please visit the Go salon↓my family runs.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x270014",
+    "japanese": "よろしく。↓それでは碁会所で。",
+    "before": "Thanks.↓See you at the salon.",
+    "after": "Thanks. See you at↓the salon.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 18
+  },
+  {
+    "offset": "0x270154",
+    "japanese": "どう？↓少しはわかったかい。↓これがプロのレベルだよ。",
+    "before": "Well? Now you see↓the level of↓professional Go.",
+    "after": "Well? Now you see the↓level of professional Go.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x2701c4",
+    "japanese": "がんばってね。↓期待されてるんだから。↓フン・・・",
+    "before": "Keep trying.↓People expect a lot.↓Hmph...",
+    "after": "Keep trying. People expect↓a lot. Hmph...",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x270268",
+    "japanese": "やァ、偶然だね。↓調子はどう？",
+    "before": "Oh, you here?↓How are you?",
+    "after": "Oh, you here? How are you?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x270288",
+    "japanese": "せっかくだからボクとちょっと軽く打たないか？",
+    "before": "While we are here,↓how about a casual game?",
+    "after": "While we are here, how↓about a casual game?",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x2702b8",
+    "japanese": "ちょっとこの後、↓時間が空いているんだ。",
+    "before": "I have some↓free time after this.",
+    "after": "I have some free time↓after this.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x270344",
+    "japanese": "それじゃ、一般対局室に行こう。",
+    "before": "Let's use the playing↓room.",
+    "after": "Let's use the↓playing room.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 13
+  },
+  {
+    "offset": "0x270364",
+    "japanese": "これで少し、↓キミのことがわかる・・・",
+    "before": "I will learn↓a little about you...",
+    "after": "I will learn a little↓about you...",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x2703bc",
+    "japanese": "わかった。↓残念だよ。",
+    "before": "I see.↓A pity.",
+    "after": "I see. A pity.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 14
+  },
+  {
+    "offset": "0x27047c",
+    "japanese": "また機会があればお願いするよ。",
+    "before": "Let us play↓another time.",
+    "after": "Let us play another time.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x27050c",
+    "japanese": "うん。↓こんなもんか。",
+    "before": "Yes.↓So that is it.",
+    "after": "Yes. So that is it.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x2705cc",
+    "japanese": "ここは私が現世に戻って最初の一局を打った場所。",
+    "before": "My first game↓back in this world↓was here.",
+    "after": "My first game back in this↓world was here.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x270730",
+    "japanese": "・・・似ている・・・でも・・・",
+    "before": "Similar...↓But...",
+    "after": "Similar... But...",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x27076c",
+    "japanese": "キミの実力はボクの思ったとおりのものだった。",
+    "before": "Your strength is↓just as I expected.",
+    "after": "Your strength is just as↓I expected.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x27079c",
+    "japanese": "これで確信を持つことができた。↓やはりキミを呼んで正解だった。",
+    "before": "Now I am certain.↓Inviting you here↓was the right choice.",
+    "after": "Now I am certain. Inviting↓you here was the↓right choice.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x2707dc",
+    "japanese": "以前話したお願いというのは進藤のことだ。",
+    "before": "My request concerns↓Shindo.",
+    "after": "My request↓concerns Shindo.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 16
+  },
+  {
+    "offset": "0x270858",
+    "japanese": "以前、ボクはキミの学校に押しかけて進藤に問い詰めたことがある。",
+    "before": "I once went to↓your school to↓confront Shindo.",
+    "after": "I once went to your school↓to confront Shindo.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x270908",
+    "japanese": "そこでキミに進藤に会って、↓手合いに出てくるよう説得をして欲しいんだ。",
+    "before": "Please meet Shindo↓and persuade him↓to return to his matches.",
+    "after": "Please meet Shindo and↓persuade him to return to↓his matches.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x270974",
+    "japanese": "キミならボクよりも進藤の力になってあげられるんじゃないかと思うんだ。",
+    "before": "I think you may be↓able to help him↓more than I can.",
+    "after": "I think you may be able to↓help him more than I can.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x2709e4",
+    "japanese": "進藤を立ち直らせることができるのはキミだけなんだ。",
+    "before": "Only you can↓get Shindo back↓on his feet.",
+    "after": "Only you can get Shindo↓back on his feet.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x270b48",
+    "japanese": "・・・おかしい。↓この程度ではないはずだが・・・",
+    "before": "Strange...↓You should be↓stronger than this...",
+    "after": "Strange... You should be↓stronger than this...",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x270b7c",
+    "japanese": "少しボクはキミのことを勘違いしていたのかもしれない。",
+    "before": "Perhaps I have↓misjudged you↓a little.",
+    "after": "Perhaps I have misjudged↓you a little.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x270bb4",
+    "japanese": "話しをするのはまたの機会にしよう。",
+    "before": "Let us talk↓another time.",
+    "after": "Let us talk another time.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x270d74",
+    "japanese": "ありがとう。↓それじゃ奥の席へ行こうか。",
+    "before": "Thanks. Let's sit at the↓back.",
+    "after": "Thanks. Let's sit at↓the back.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x270de0",
+    "japanese": "そうか。↓残念だな。",
+    "before": "I see.↓A pity.",
+    "after": "I see. A pity.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 14
+  },
+  {
+    "offset": "0x270df8",
+    "japanese": "また来てくれよ。↓それじゃ。",
+    "before": "Come again.↓See you.",
+    "after": "Come again. See you.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x270e70",
+    "japanese": "キミと打つのはよい刺激になる。",
+    "before": "Playing you↓spurs me on.",
+    "after": "Playing you spurs me on.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x270e90",
+    "japanese": "できればまたお願いしたい。",
+    "before": "I hope we↓can play again.",
+    "after": "I hope we can play again.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x270eac",
+    "japanese": "気軽に来てくれよ。↓それじゃ。",
+    "before": "Visit any time.↓See you.",
+    "after": "Visit any time. See you.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x27101c",
+    "japanese": "ボクの家まで来てくれないか。",
+    "before": "Will you come↓to my house?",
+    "after": "Will you come to my house?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x27109c",
+    "japanese": "はーい。↓あら、ヒカルのお友達？",
+    "before": "Yes?↓Oh, Hikaru's friend?",
+    "after": "Yes? Oh, Hikaru's friend?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x2710c0",
+    "japanese": "どうぞ。↓部屋に上がって待っててください。↓すぐに帰ってくると思いますよ。",
+    "before": "Come in and wait↓in his room, please.↓He should be home soon.",
+    "after": "Come in and wait in his↓room, please. He should be↓home soon.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x271154",
+    "japanese": "ヒカル・・・↓本当に碁を打っていないようですね。",
+    "before": "Hikaru...↓You truly have↓stopped playing.",
+    "after": "Hikaru... You truly have↓stopped playing.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x271220",
+    "japanese": "もう碁なんて、↓どうでもいいんだよ・・・",
+    "before": "I don't care about Go↓anymore...",
+    "after": "I don't care about↓Go anymore...",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 18
+  },
+  {
+    "offset": "0x27124c",
+    "japanese": "どうでも・・・いいですと・・・？",
+    "before": "You don't... care about↓Go...?",
+    "after": "You don't... care↓about Go...?",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x271294",
+    "japanese": "打ってヒカルの目を覚まさせてやりましょう！",
+    "before": "Play, and bring↓Hikaru to his senses!",
+    "after": "Play, and bring Hikaru to↓his senses!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x2712c0",
+    "japanese": "おわ！↓おまえ、勝手に何すんだよ！",
+    "before": "Hey!↓What are you doing?!",
+    "after": "Hey! What are you doing?!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x2712e4",
+    "japanese": "$2、黒石を持ってください。",
+    "before": "$2,↓take Black.",
+    "after": "$2, take Black.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x271300",
+    "japanese": "17の四！↓右上スミ、小目！",
+    "before": "17-4!↓Top-right komoku!",
+    "after": "17-4! Top-right komoku!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x271328",
+    "japanese": "打たねェ！↓打たねーぞ、オレは！",
+    "before": "No!↓I will not play!",
+    "after": "No! I will not play!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x2715e8",
+    "japanese": "・・・アイツが打ってたんだ。↓こんな風に。",
+    "before": "He played...↓just like this.",
+    "after": "He played... just↓like this.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x271658",
+    "japanese": "打つよ、オレ。↓これからずっと。",
+    "before": "I'll play. I'll keep↓playing.",
+    "after": "I'll play. I'll↓keep playing.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 15
+  },
+  {
+    "offset": "0x2716a8",
+    "japanese": "これからオレがどうしなきゃいけないかってことが。",
+    "before": "What I have to do from now↓on.",
+    "after": "What I have to do from↓now on.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x2716dc",
+    "japanese": "ずっとこの道を歩く。↓塔矢とも、和谷とも、↓おまえとも・・・",
+    "before": "I'll keep walking this↓path. With Toya, Waya, and↓you...",
+    "after": "I'll keep walking this↓path. With Toya, Waya,↓and you...",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x27171c",
+    "japanese": "また家に来てくれよ。↓今度はちゃんと歓迎するからさ。",
+    "before": "Come over again.↓I will give you↓a proper welcome.",
+    "after": "Come over again. I will↓give you a proper welcome.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x271818",
+    "japanese": "あなたもいつかこのようなときを迎える日がくるのかもしれませんね。",
+    "before": "Perhaps you too↓will face such a moment↓someday.",
+    "after": "Perhaps you too will face↓such a moment someday.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x27185c",
+    "japanese": "私があなたといつまで一緒にいられるのか・・・それは私にもわかりませんから・・・",
+    "before": "Even I do not know↓how long I can↓remain with you...",
+    "after": "Even I do not know how↓long I can remain↓with you...",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x2718ac",
+    "japanese": "でもおそらくまだ先の話。↓心配することはありませんよ。",
+    "before": "But likely not yet.↓There is no need↓to worry.",
+    "after": "But likely not yet. There↓is no need to worry.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x2718e4",
+    "japanese": "それにあなたには教えなければならないことがまだまだたくさん残っています。",
+    "before": "Besides, I still have↓so many things↓to teach you.",
+    "after": "Besides, I still have so↓many things to teach you.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x271930",
+    "japanese": "これからも一緒にがんばっていきましょうね！",
+    "before": "Let us keep↓working hard together!",
+    "after": "Let us keep working↓hard together!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x271afc",
+    "japanese": "気ィ済んだか？↓それじゃさっさと出てってくれ。",
+    "before": "Satisfied?↓Then get out already.",
+    "after": "Satisfied? Then get↓out already.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x271b2c",
+    "japanese": "もうオレ、碁を打つことねーから。",
+    "before": "I'm never playing Go↓again.",
+    "after": "I'm never playing↓Go again.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x271b50",
+    "japanese": "$2、行きましょう。",
+    "before": "$2,↓let us go.",
+    "after": "$2, let us go.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x271ce4",
+    "japanese": "そっか。↓じゃ、また今度たのむな。",
+    "before": "Okay.↓Another time, then.",
+    "after": "Okay. Another time, then.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x271d64",
+    "japanese": "やっぱおまえと打つとオモシれー↓よ！",
+    "before": "Playing you↓really is fun!",
+    "after": "Playing you really is fun!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x271f38",
+    "japanese": "$2は・・・↓ちゃんと最後まで見ますよね？",
+    "before": "$2...↓Watch to the end,↓won't you?",
+    "after": "$2... Watch to↓the end, won't you?",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x27200c",
+    "japanese": "・・・あら？↓あっ！筒井さん！",
+    "before": "Oh?↓Ah! Tsutsui!",
+    "after": "Oh? Ah! Tsutsui!",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 16
+  },
+  {
+    "offset": "0x27202c",
+    "japanese": "あっ藤崎さん。↓偶然だな。↓藤崎さんも観戦？",
+    "before": "Oh, Fujisaki!↓Fancy that!↓Watching too?",
+    "after": "Oh, Fujisaki! Fancy that!↓Watching too?",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x27205c",
+    "japanese": "ボクも決勝戦を観戦に来たんだ。",
+    "before": "I'm watching the final↓too.",
+    "after": "I'm watching the↓final too.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 16
+  },
+  {
+    "offset": "0x272094",
+    "japanese": "筒井さんは囲碁部の最初の部長で葉瀬中の囲碁部を作った人なのよ。",
+    "before": "Tsutsui founded↓the Haze Go club.↓Its first president!",
+    "after": "Tsutsui founded the Haze↓Go club. Its↓first president!",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x2721ac",
+    "japanese": "そうだ！↓ここの対局室でボクと打ってもらえないかな。",
+    "before": "I know! Will you↓play me in the↓playing room here?",
+    "after": "I know! Will you play me↓in the playing room here?",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x272208",
+    "japanese": "私、筒井さんと$1が打つのを見てみたい！",
+    "before": "$1,↓I want to see↓you play Tsutsui!",
+    "after": "$1, I want to↓see you play Tsutsui!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x272448",
+    "japanese": "さすがだな・・・↓やっぱりかなわないや。",
+    "before": "As expected...↓I'm no match for you.",
+    "after": "As expected... I'm no↓match for you.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x2724e4",
+    "japanese": "今日はありがとう。↓楽しかった！↓それじゃ、またね。",
+    "before": "Thanks for today.↓That was fun!↓See you again.",
+    "after": "Thanks for today. That was↓fun! See you again.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x272640",
+    "japanese": "ボクもまだまだ強くなってるんだ。",
+    "before": "I'm still↓getting stronger too.",
+    "after": "I'm still getting↓stronger too.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x2726a8",
+    "japanese": "今日はありがとう。↓さようなら。",
+    "before": "Thanks for today.↓Goodbye.",
+    "after": "Thanks for today. Goodbye.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x2727bc",
+    "japanese": "あ、$1。↓こんにちは。",
+    "before": "Oh, $1!↓Hello.",
+    "after": "Oh, $1! Hello.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x2728a4",
+    "japanese": "そうか・・・しょうがないな。",
+    "before": "I see...↓Oh well.",
+    "after": "I see... Oh well.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x2728c4",
+    "japanese": "それじゃ、↓また機会があればよろしくね。↓さようなら。",
+    "before": "Then please play me↓another time.↓Goodbye.",
+    "after": "Then please play me↓another time. Goodbye.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x272954",
+    "japanese": "いい勉強になったよ。↓ありがとう。↓また機会があればお願いするね。",
+    "before": "I learned a lot.↓Thank you. Please↓play me again sometime.",
+    "after": "I learned a lot. Thank↓you. Please play me↓again sometime.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x272afc",
+    "japanese": "広いイベント会場で、↓プロが指導碁を打ったり、↓講座を開いたりするんだ。",
+    "before": "In a large hall,↓pros give teaching games↓and hold lectures.",
+    "after": "In a large hall, pros give↓teaching games and↓hold lectures.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x272c5c",
+    "japanese": "おお、ここもなつかしい場所ですね。",
+    "before": "Oh, this place takes me↓back!",
+    "after": "Oh, this place takes↓me back!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x272c80",
+    "japanese": "以前にここで打ったことがあったのです。",
+    "before": "I played here↓once before.",
+    "after": "I played here once before.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x272ce4",
+    "japanese": "なに？↓オレが三谷だけど・・・",
+    "before": "What?↓I am Mitani, but...",
+    "after": "What? I am Mitani, but...",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x272d54",
+    "japanese": "忙しいんだ。↓わりーな。",
+    "before": "I am busy.↓Sorry.",
+    "after": "I am busy. Sorry.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x272d70",
+    "japanese": "囲碁部なら理科室で打ちゃいいだろ。",
+    "before": "Go club? Use the science↓room.",
+    "after": "Go club? Use the↓science room.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 16
+  },
+  {
+    "offset": "0x272d94",
+    "japanese": "なに・・・？↓院生になるんで囲碁部に入らなかっただと。",
+    "before": "What? You skipped↓the Go club↓to become an insei?",
+    "after": "What? You skipped the Go↓club to become an insei?",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x273050",
+    "japanese": "じゃーな。↓もう来んじゃねーぞ。",
+    "before": "Later.↓Do not come back.",
+    "after": "Later. Do not come back.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x273124",
+    "japanese": "別に今さらおまえに囲碁部に入って欲しいなんて思っちゃいねーよ。",
+    "before": "I do not want you↓joining the Go club↓at this point.",
+    "after": "I do not want you joining↓the Go club at this point.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x273164",
+    "japanese": "ただ、↓やるんだったら本気でやるんだな。",
+    "before": "If you play,↓take it seriously.",
+    "after": "If you play, take↓it seriously.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x2732a0",
+    "japanese": "なんでオレなんかと打ちたがるのかわかんないね。",
+    "before": "I do not see why↓you want to play me.",
+    "after": "I do not see why you want↓to play me.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x2732e8",
+    "japanese": "一局打ったらさっさと帰れよ。",
+    "before": "One game,↓then leave.",
+    "after": "One game, then leave.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x27340c",
+    "japanese": "もういいだろ。↓じゃーな。",
+    "before": "Enough now?↓Later.",
+    "after": "Enough now? Later.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 18
+  },
+  {
+    "offset": "0x2735c4",
+    "japanese": "いつの世も人々の碁に対する想いは変わらないのですね。",
+    "before": "In every age,↓people love Go↓just the same.",
+    "after": "In every age, people love↓Go just the same.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x2735fc",
+    "japanese": "おや？↓私、あの人知ってますよ。",
+    "before": "Oh?↓I know that man.",
+    "after": "Oh? I know that man.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x2736bc",
+    "japanese": "あ、キミもサイン？↓ちょっと待っててね。↓順番だから。",
+    "before": "You too?↓Wait a moment, please.↓One at a time.",
+    "after": "You too? Wait a moment,↓please. One at a time.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x273778",
+    "japanese": "・・・アレ？↓んー？",
+    "before": "Huh?↓Hmm?",
+    "after": "Huh? Hmm?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 9
+  },
+  {
+    "offset": "0x2737ac",
+    "japanese": "確か$3・・・、だったね。",
+    "before": "$3,↓was it?",
+    "after": "$3, was it?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x2737c8",
+    "japanese": "・・・うーん、ちょっとキミ、↓時間あるかな？",
+    "before": "Hmm...↓Do you have some time?",
+    "after": "Hmm... Do you have↓some time?",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 18
+  },
+  {
+    "offset": "0x27383c",
+    "japanese": "二子置いて。↓よーし、じゃあいくよー。",
+    "before": "Take two stones.↓Right, here we go!",
+    "after": "Take two stones. Right,↓here we go!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x273a40",
+    "japanese": "いやァ、最近の若いヤツはなかなか強いのが続いているからさ、",
+    "before": "So many strong↓young players↓have appeared lately.",
+    "after": "So many strong young↓players have↓appeared lately.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 20
+  },
+  {
+    "offset": "0x273ad0",
+    "japanese": "あ、でも今日ここでオレに勝ったからってオレより強いなんて思っちゃダメだよ。",
+    "before": "But beating me here↓does not mean↓you are stronger!",
+    "after": "But beating me here does↓not mean you are stronger!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x273b4c",
+    "japanese": "まァ、勝ちは勝ちだ。↓はい、サイン。",
+    "before": "A win is a win.↓Here, my autograph.",
+    "after": "A win is a win. Here,↓my autograph.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x273ccc",
+    "japanese": "まァ、フツーに考えて新初段がオレに勝つことなんて無理だよね。",
+    "before": "Well, normally a new↓1-dan cannot expect↓to beat me.",
+    "after": "Well, normally a new 1-dan↓cannot expect to beat me.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x273d34",
+    "japanese": "そうか・・・↓毎年出てくるわけじゃないのか。↓あいつらみたいなヤツは・・・",
+    "before": "I see... Players↓like those two do not↓appear every year...",
+    "after": "I see... Players like↓those two do not appear↓every year...",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x273d80",
+    "japanese": "うん。↓ありがとね。",
+    "before": "Yes.↓Thank you.",
+    "after": "Yes. Thank you.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 15
+  },
+  {
+    "offset": "0x273e68",
+    "japanese": "あ、アレ？↓キミ、また来たの？",
+    "before": "Oh?↓You are back?",
+    "after": "Oh? You are back?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x273f1c",
+    "japanese": "別にいいよ。↓ちょうど時間空いてるし。",
+    "before": "Sure.↓I have some free time.",
+    "after": "Sure. I have some↓free time.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x274028",
+    "japanese": "しょうがないなァ。↓もう一枚サイン書いてやるよ。",
+    "before": "All right, I will↓sign another for you.",
+    "after": "All right, I will sign↓another for you.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x27405c",
+    "japanese": "え？いらないの？↓ホントに？",
+    "before": "What? No thanks?↓Really?",
+    "after": "What? No thanks? Really?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x27407c",
+    "japanese": "まァ、↓サイン欲しくなったらまた来いよ。",
+    "before": "Come back↓if you want an autograph.",
+    "after": "Come back if you want↓an autograph.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x2740a8",
+    "japanese": "もちろん、またオレに勝たないとやらないけどな。↓はははは！",
+    "before": "Of course, you must↓beat me again first!↓Ha ha ha!",
+    "after": "Of course, you must beat↓me again first! Ha ha ha!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x27420c",
+    "japanese": "あれからもうプロになったか。↓ふぉっふぉっふぉっ。↓たいしたものじゃのう。",
+    "before": "A pro already?↓Ho ho ho!↓Quite an achievement!",
+    "after": "A pro already? Ho ho ho!↓Quite an achievement!",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x274258",
+    "japanese": "この間の緒方との新初段シリーズもなかなかよい碁だったそうじゃないか。",
+    "before": "I hear your debut↓against Ogata↓was a fine game.",
+    "after": "I hear your debut against↓Ogata was a fine game.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x2742d0",
+    "japanese": "ひゃっひゃっひゃっ!↓これからが楽しみよのう！",
+    "before": "Heh heh heh!↓Much to look forward to!",
+    "after": "Heh heh heh! Much to look↓forward to!",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x274328",
+    "japanese": "あのときは一応試験だったからな。今日は置き石なしじゃ。",
+    "before": "That was an exam.↓No handicap stones↓today.",
+    "after": "That was an exam. No↓handicap stones today.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x27449c",
+    "japanese": "$2・・・だったか。",
+    "before": "$2,↓was it?",
+    "after": "$2, was it?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x274598",
+    "japanese": "おい。↓$2じゃったか。",
+    "before": "Hey.↓$2, was it?",
+    "after": "Hey. $2, was it?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x2746bc",
+    "japanese": "なんじゃ？↓また対局しに来よったか？",
+    "before": "What?↓Come for another game?",
+    "after": "What? Come for↓another game?",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 14
+  },
+  {
+    "offset": "0x274768",
+    "japanese": "いいだろう。↓少し付き合ってやろう。",
+    "before": "All right.↓I can spare some time.",
+    "after": "All right. I can spare↓some time.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x2747e4",
+    "japanese": "そうか。↓まあいい。",
+    "before": "I see.↓Very well.",
+    "after": "I see. Very well.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x2747fc",
+    "japanese": "おまえさんには期待しておるでの。",
+    "before": "I have high↓hopes for you.",
+    "after": "I have high hopes for you.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x274820",
+    "japanese": "ひゃっひゃっひゃっ。↓またな。",
+    "before": "Heh heh heh.↓See you.",
+    "after": "Heh heh heh. See you.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x274974",
+    "japanese": "どうした？↓以前の勢いがないぞ、勢いが。",
+    "before": "What happened↓to your old drive?",
+    "after": "What happened to your↓old drive?",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 21
+  },
+  {
+    "offset": "0x2749a0",
+    "japanese": "若いうちはもっとがむしゃらに向↓かってこなくてはいかん。",
+    "before": "While you are young,↓you must attack↓more fiercely.",
+    "after": "While you are young, you↓must attack more fiercely.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x274a6c",
+    "japanese": "会わせたい人というのはボクのお父さんだ。",
+    "before": "I want you↓to meet my father.",
+    "after": "I want you to meet↓my father.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 18
+  },
+  {
+    "offset": "0x274b30",
+    "japanese": "だから家を空けることも多いんだけど、",
+    "before": "So he is often↓away from home,",
+    "after": "So he is often away↓from home,",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x274b58",
+    "japanese": "家にいるときにはよく日本のプロが家に来て一緒に打っている。",
+    "before": "but when home, Japanese↓pros often come to play↓him.",
+    "after": "but when home, Japanese↓pros often come to↓play him.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x274b94",
+    "japanese": "たぶんキミもお父さんから対局を申しこまれると思うよ。",
+    "before": "I think he will↓ask you for a game too.",
+    "after": "I think he will ask you↓for a game too.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x274bcc",
+    "japanese": "とにかく奥へどうぞ。↓お父さんが待っている。",
+    "before": "Come inside.↓My father is waiting.",
+    "after": "Come inside. My father↓is waiting.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x274c4c",
+    "japanese": "キミの話をアキラから聞いてぜひ一度お相手願おうと思ってね。",
+    "before": "Akira told me about you. I↓very much wanted to play↓you.",
+    "after": "Akira told me about you. I↓very much wanted to↓play you.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x274c88",
+    "japanese": "私は引退してしまったのでこうでもしないとキミ達のような棋士と打つ機会がない。",
+    "before": "Being retired,↓I rarely have a chance↓to face players like you.",
+    "after": "Being retired, I rarely↓have a chance to face↓players like you.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x274cd8",
+    "japanese": "キミにとっては突然のことかもしれないがよろしくたのむ。",
+    "before": "This may seem sudden,↓but I would↓appreciate a game.",
+    "after": "This may seem sudden, but↓I would appreciate a game.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x274e68",
+    "japanese": "どうでした？↓お父さん・・・！",
+    "before": "How was it,↓Father...?",
+    "after": "How was it, Father...?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x274ef0",
+    "japanese": "え！↓私ですか？",
+    "before": "What?↓Me?",
+    "after": "What? Me?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 9
+  },
+  {
+    "offset": "0x274f48",
+    "japanese": "だけど、↓どうしても確かめたかったんだ。",
+    "before": "But I simply↓had to be certain.",
+    "after": "But I simply had to↓be certain.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x274fc0",
+    "japanese": "インターネットにしか姿を見せないsaiという名の打ち手だ。",
+    "before": "A player named sai,↓seen only↓on the internet.",
+    "after": "A player named sai, seen↓only on the internet.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x275068",
+    "japanese": "だけど昔、子供かもしれないという話があってね。↓もしかしたらと思ったんだ。",
+    "before": "It was once said↓sai might be a child.↓I wondered if it was you.",
+    "after": "It was once said sai might↓be a child. I wondered if↓it was you.",
+    "old_lines": 3,
+    "new_lines": 3,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x2750e4",
+    "japanese": "・・・でも、↓ボクの勘違いだったようだ。",
+    "before": "But...↓It seems I was mistaken.",
+    "after": "But... It seems I↓was mistaken.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x275110",
+    "japanese": "$3、すまなかったね。",
+    "before": "$3,↓I am sorry.",
+    "after": "$3, I am sorry.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x275128",
+    "japanese": "だが私自身もキミに興味があったのは本当だ。",
+    "before": "But I truly was↓interested in you too.",
+    "after": "But I truly was interested↓in you too.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 26
+  },
+  {
+    "offset": "0x2751c8",
+    "japanese": "ぜひまた家を訪ねてきてくれたまえ。",
+    "before": "Please visit↓our home again.",
+    "after": "Please visit our↓home again.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 16
+  },
+  {
+    "offset": "0x275204",
+    "japanese": "家へはまた気軽に来てくれ。",
+    "before": "Visit our home↓any time.",
+    "after": "Visit our home any time.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 24
+  },
+  {
+    "offset": "0x275254",
+    "japanese": "それではまた。↓次にキミと対局できるのを楽しみにしているよ。",
+    "before": "See you again.↓I look forward to↓our next game.",
+    "after": "See you again. I look↓forward to our next game.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 25
+  },
+  {
+    "offset": "0x275544",
+    "japanese": "これからのキミの成長に期待をしているよ。",
+    "before": "I look forward to↓your future growth.",
+    "after": "I look forward to your↓future growth.",
+    "old_lines": 2,
+    "new_lines": 2,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x275700",
+    "japanese": "$3か、よく来たね。",
+    "before": "$3,↓welcome.",
+    "after": "$3, welcome.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 22
+  },
+  {
+    "offset": "0x275714",
+    "japanese": "私と一局打ちに来てくれたのかな？",
+    "before": "Come to play me↓a game?",
+    "after": "Come to play me a game?",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 23
+  },
+  {
+    "offset": "0x2757bc",
+    "japanese": "そうか。↓ならばまた次の機会にお願いしよう。",
+    "before": "I see.↓Then another time,↓perhaps.",
+    "after": "I see. Then another↓time, perhaps.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 19
+  },
+  {
+    "offset": "0x27583c",
+    "japanese": "うむ。↓よい碁だった。",
+    "before": "Yes.↓A fine game.",
+    "after": "Yes. A fine game.",
+    "old_lines": 2,
+    "new_lines": 1,
+    "maximum_cells": 17
+  },
+  {
+    "offset": "0x275918",
+    "japanese": "うむ。↓勝負は私が勝ったが随所におもしろい手があった。",
+    "before": "I won, but you↓played many↓interesting moves.",
+    "after": "I won, but you played many↓interesting moves.",
+    "old_lines": 3,
+    "new_lines": 2,
+    "maximum_cells": 26
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "version": "0.56-beta",
+  "source_sha256": "c6882110afa9ef27bf49f2e0530e37c51164d5ad0c10466cb164fc1b938406fc",
+  "target_sha256": "372cc172e7ed33fe0d5313f8ed6c5c94e6152700954e571b802a6abbb14cdf87",
+  "active_files": 719,
+  "runtime_status": "PENDING manual checklist; not full-game certification",
+  "checks": {
+    "fst_and_dol_extents": "PASS",
+    "name_entry_offline": {
+      "cases": 2068,
+      "arena_cases": 6,
+      "code_bytes": 436,
+      "labels": {
+        "arena_floor": "0x8042c000",
+        "narrow": "0x8042c01c",
+        "expand": "0x8042c0d4"
+      },
+      "source_unchanged": true,
+      "nonvolatile_registers_stack_preserved": true,
+      "bounded_editor_capacity_bytes": 10
+    },
+    "executable_whitelist": "PASS: only the 12 documented v55 sites and declared helper section",
+    "dol_entries": 2835,
+    "small_bubble_budget": 796,
+    "large_bubble_budget": 1228,
+    "parsed_scripts": 269,
+    "script_entries_and_operands": 3082,
+    "gba_match_entries": 172,
+    "gba_book_entries": 2009,
+    "native_archives_decoded": 45,
+    "native_images_decoded": 1216
+  },
+  "coverage_gaps": [
+    "Unsupported complete dispatcher parser: script/mission/mission.gcs",
+    "Unsupported complete dispatcher parser: script/tutorial/tutorial.gcs",
+    "Manual gameplay routes, optional Story branches and actual GBA transfer pending.",
+    "GBA compound kanji-number formatter and packed character graphics remain unclassified.",
+    "Font outline clipping and all bubble variants require visual runtime comparison.",
+    "Japanese background building/shop signage and collectible packaging retained with approval."
+  ],
+  "residual_candidates": []
+}

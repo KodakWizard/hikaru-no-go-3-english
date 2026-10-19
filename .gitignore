@@ -1,0 +1,15 @@
+*.iso
+*.gcm
+*.rvz
+*.gci
+*.raw
+*.dol
+*.gba
+*.bps
+__pycache__/
+User/
+Dolphin/
+translation_work/extracted/
+translation_work/decoded/
+translation_work/python_libs/
+translation_work/runtime_qa*/
