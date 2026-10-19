@@ -1,4 +1,4 @@
-// Original project tool, MIT. Streaming BPS application for the Version 1.0.1 image.
+// Original project tool, MIT. Streaming BPS application for the Version 1.0.2 image.
 using System;
 using System.IO;
 using System.Drawing;
@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 static class PatchEngine {
     public const string SourceHash="c6882110afa9ef27bf49f2e0530e37c51164d5ad0c10466cb164fc1b938406fc";
-    public const string TargetHash="e09fdbaa55b0841b6b5d899cec97b2f936659a72c6def307d5c131cee6ec38fa";
+    public const string TargetHash="fe7839ca19d0fe4fedf21f552dfc742f092e28ca052342979474004b3e58ca6d";
     public const long Size=1459978240;
     static readonly uint[] Table=MakeTable();
     static uint[] MakeTable(){var t=new uint[256];for(uint n=0;n<256;n++){uint c=n;for(int k=0;k<8;k++)c=(c&1)!=0?0xedb88320U^(c>>1):c>>1;t[n]=c;}return t;}
@@ -32,7 +32,7 @@ static class PatchEngine {
         Check(Hash(source)==SourceHash,"The original ISO checksum does not match. Use the unmodified Japanese GHTJA4 ISO, not an older patched version or compressed RVZ.");
         progress(8);
         var patch=File.ReadAllBytes(patchPath);
-        Check(patch.Length>=16 && patch[0]==66 && patch[1]==80 && patch[2]==83 && patch[3]==49,"Select the Version 1.0.1 BPS patch.");
+        Check(patch.Length>=16 && patch[0]==66 && patch[1]==80 && patch[2]==83 && patch[3]==49,"Select the Version 1.0.2 BPS patch.");
         Check(Crc(patch,0,patch.Length-4)==LE(patch,patch.Length-4),"Patch checksum mismatch. Download and extract it again.");
         int p=4;long ss=Number(patch,ref p),ts=Number(patch,ref p),metadata=Number(patch,ref p);
         Check(ss==Size && ts==Size && metadata>=0 && metadata<=patch.Length-12-p,"Invalid patch sizes.");p+=(int)metadata;
@@ -64,14 +64,14 @@ sealed class PatcherForm:Form {
     TextBox original=new TextBox(),patch=new TextBox();Button apply=new Button();
     ProgressBar progress=new ProgressBar();Label status=new Label();bool busy;
     public PatcherForm(){
-        Text="Hikaru no Go 3 - English Version 1.0.1";ClientSize=new Size(680,300);
+        Text="Hikaru no Go 3 - English Version 1.0.2";ClientSize=new Size(680,300);
         Font=new Font("Segoe UI",10);FormBorderStyle=FormBorderStyle.FixedDialog;MaximizeBox=false;
         StartPosition=FormStartPosition.CenterScreen;
-        var title=new Label{Text="Apply the Version 1.0.1 English patch",Location=new Point(18,14),Size=new Size(640,25),Font=new Font("Segoe UI",13,FontStyle.Bold)};Controls.Add(title);
+        var title=new Label{Text="Apply the Version 1.0.2 English patch",Location=new Point(18,14),Size=new Size(640,25),Font=new Font("Segoe UI",13,FontStyle.Bold)};Controls.Add(title);
         Controls.Add(new Label{Text="Choose your original Japanese GHTJA4 ISO. Your original and saves stay unchanged.",Location=new Point(18,47),Size=new Size(644,25)});
         AddRow("Original ISO",original,80,"GameCube ISO (*.iso;*.gcm)|*.iso;*.gcm|All files (*.*)|*.*");
         AddRow("English BPS",patch,124,"BPS patch (*.bps)|*.bps");
-        string bundled=Path.Combine(AppDomain.CurrentDomain.BaseDirectory,"Hikaru_no_Go_3_English_v1.0.1.bps");if(File.Exists(bundled))patch.Text=bundled;
+        string bundled=Path.Combine(AppDomain.CurrentDomain.BaseDirectory,"Hikaru_no_Go_3_English_v1.0.2.bps");if(File.Exists(bundled))patch.Text=bundled;
         apply.Text="Apply patch...";apply.Location=new Point(18,177);apply.Size=new Size(160,34);apply.Click+=Start;Controls.Add(apply);
         progress.Location=new Point(195,182);progress.Size=new Size(467,24);Controls.Add(progress);
         status.Text="The finished ISO is verified automatically. Gameplay QA remains in progress.";
@@ -87,7 +87,7 @@ sealed class PatcherForm:Form {
     void Start(object sender,EventArgs e){
         if(!File.Exists(original.Text)||!File.Exists(patch.Text)){MessageBox.Show(this,"Choose the original ISO and the English BPS patch first.");return;}
         string output;
-        using(var d=new SaveFileDialog{Title="Save a separate English ISO",Filter="GameCube ISO (*.iso)|*.iso",FileName="Hikaru no Go 3 - English Version 1.0.1.iso",OverwritePrompt=true}){
+        using(var d=new SaveFileDialog{Title="Save a separate English ISO",Filter="GameCube ISO (*.iso)|*.iso",FileName="Hikaru no Go 3 - English Version 1.0.2.iso",OverwritePrompt=true}){
             if(d.ShowDialog(this)!=DialogResult.OK)return;output=d.FileName;
         }
         if(File.Exists(output)){MessageBox.Show(this,"Choose a new filename. This tool never overwrites an existing file.");return;}
@@ -99,7 +99,7 @@ sealed class PatcherForm:Form {
         worker.RunWorkerCompleted+=(s,a)=>{
             busy=false;apply.Enabled=true;
             if(a.Error!=null){status.Text="Patch did not complete. Any partial output is unverified.";MessageBox.Show(this,a.Error.Message,"Patch not verified",MessageBoxButtons.OK,MessageBoxIcon.Error);}
-            else{status.Text="Verified English Version 1.0.1 ISO saved. Cold boot it in Dolphin.";MessageBox.Show(this,"The English ISO was created and its SHA-256 verified.\n\n"+output,"Patch complete",MessageBoxButtons.OK,MessageBoxIcon.Information);}
+            else{status.Text="Verified English Version 1.0.2 ISO saved. Cold boot it in Dolphin.";MessageBox.Show(this,"The English ISO was created and its SHA-256 verified.\n\n"+output,"Patch complete",MessageBoxButtons.OK,MessageBoxIcon.Information);}
             worker.Dispose();
         };worker.RunWorkerAsync();
     }

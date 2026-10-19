@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2-beta",
   "source_sha256": "c6882110afa9ef27bf49f2e0530e37c51164d5ad0c10466cb164fc1b938406fc",
-  "target_sha256": "e09fdbaa55b0841b6b5d899cec97b2f936659a72c6def307d5c131cee6ec38fa",
+  "target_sha256": "fe7839ca19d0fe4fedf21f552dfc742f092e28ca052342979474004b3e58ca6d",
   "active_files": 719,
-  "runtime_status": "PENDING manual checklist; not full-game certification",
+  "runtime_status": "Positive maintainer feedback on final v59; broader manual checklist pending",
   "checks": {
     "fst_and_dol_extents": "PASS",
     "name_entry_offline": {
@@ -19,7 +19,7 @@
       "nonvolatile_registers_stack_preserved": true,
       "bounded_editor_capacity_bytes": 10
     },
-    "executable_whitelist": "PASS: only the 12 documented v55 sites and declared helper section",
+    "executable_whitelist": "PASS: 12 documented v55 sites, declared helper section and exact final v59 31-word display window",
     "dol_entries": 2835,
     "small_bubble_budget": 796,
     "large_bubble_budget": 1228,
@@ -29,7 +29,8 @@
     "gba_book_entries": 2009,
     "native_archives_decoded": 45,
     "native_images_decoded": 1216,
-    "title_only_v56_comparison": "PASS: title/title.bpe plus eight-byte FST entry; 719 active files checked"
+    "result_layout_instruction_cases": 8000,
+    "result_atlas_placement_cases": 9010
   },
   "coverage_gaps": [
     "Unsupported complete dispatcher parser: script/mission/mission.gcs",
@@ -40,6 +41,6 @@
     "Japanese background building/shop signage and collectible packaging retained with approval."
   ],
   "residual_candidates": [],
-  "internal_build": "0.57",
+  "internal_build": "final v59",
   "status": "beta"
 }

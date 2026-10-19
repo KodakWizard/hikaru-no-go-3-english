@@ -2,8 +2,8 @@
 
 ## Windows (recommended)
 
-1. Download **Hikaru_no_Go_3_English_v1.0.1.zip** from Releases and extract it.
-2. Keep `Hikaru_English_Patcher.exe` and `Hikaru_no_Go_3_English_v1.0.1.bps`
+1. Download **Hikaru_no_Go_3_English_v1.0.2.zip** from Releases and extract it.
+2. Keep `Hikaru_English_Patcher.exe` and `Hikaru_no_Go_3_English_v1.0.2.bps`
    together in the extracted folder. Double-click `Hikaru_English_Patcher.exe`.
 3. Next to **Original ISO**, click **Browse...** and select your original Japanese
    **GHTJA4** ISO. Compressed RVZ and already-patched images are not accepted.

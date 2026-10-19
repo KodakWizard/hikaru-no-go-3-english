@@ -1,23 +1,22 @@
-## Version 1.0.1 — title artwork update (beta)
+## Version 1.0.2 — Results layout fixes (beta)
 
-- Rebuilt both title backgrounds from one continuous Sai illustration with the
-  transparent English logo, removing the stepped white edge and pasted patches.
-- Kept the menu Go-board overlay, original title controls and animation data.
-- Updated the title-screen gallery capture and included the title source changes
-  and working artwork in the source archive.
-- Dialogue, fonts, gameplay and memory-card saves are unchanged from Version 1.0.0.
+- Separated resignation/time labels from Win/Loss and aligned result labels.
+- Repositioned half-point result labels so the decimal, pt and outcome have clear
+  spacing. Whole-point layout and all score, komi and winner calculations are unchanged.
+- Retained existing glyph pixels and palettes: no new outlines, halos or font changes.
+- Included the result-layout sources, instruction tests and audit evidence.
 
-Download **Hikaru_no_Go_3_English_v1.0.1.zip**, extract it and run
-**Hikaru_English_Patcher.exe**. Apply to your own original Japanese **GHTJA4** ISO.
-Do not apply to an older English image. See PATCHING_GUIDE.md.
+The maintainer reports the final test build working. This remains a beta:
+optional routes, all visual variants and actual GBA transfer need further testing.
+Offline checks cover 9,010 result placements and 8,000 instruction combinations;
+they are not full gameplay emulation. Earlier releases remain available.
+
+Download **Hikaru_no_Go_3_English_v1.0.2.zip**, extract it and run
+**Hikaru_English_Patcher.exe**, or use the included Python patcher.
+Apply to your own unmodified Japanese **GHTJA4** ISO, not an older English image.
+See PATCHING_GUIDE.md and RESULTS_UPDATE.md. No disc image, emulator or saves included.
 
 Source SHA-256: `c6882110afa9ef27bf49f2e0530e37c51164d5ad0c10466cb164fc1b938406fc`
-Patched SHA-256: `e09fdbaa55b0841b6b5d899cec97b2f936659a72c6def307d5c131cee6ec38fa`
-
-All 719 active files, native image layout, whole-disc allowed differences and BPS
-reconstruction checks pass. This remains a pre-release: gameplay checklist,
-title transitions/menu selections, optional routes and actual GBA transfer still
-need manual testing. Version 1.0.0 remains available for comparison.
+Patched SHA-256: `fe7839ca19d0fe4fedf21f552dfc742f092e28ca052342979474004b3e58ca6d`
 
 Hikaru no Go 3 / ヒカルの碁3 / ヒカルの碁３ — Nintendo GameCube / GCN English fan translation.
-No disc image, emulator or saves are distributed.

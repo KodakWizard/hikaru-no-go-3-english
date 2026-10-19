@@ -39,3 +39,7 @@ are in BUILD_WINDOWS_PATCHER.md. Its stream engine is verified against the full 
 
 Version 1.0.1 adds title_layers_v57.py, build_title_layers_v57.py and their
 restored background/logo working PNGs to development_sources.zip. See TITLE_UPDATE.md.
+
+Version 1.0.2: final v59 has positive maintainer runtime feedback; see RESULTS_UPDATE.md.
+Confirm resignation/time, Win/Loss, Draw/Jigo, whole/half margins (including 0.5),
+both stone colours and exit/save after results. Broader acceptance remains pending.

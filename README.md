@@ -7,12 +7,13 @@ An English fan translation patch for **Hikaru no Go 3** — **ヒカルの碁3**
 release **GHTJA4**. Includes editable dialogue, original development tools, a BPS
 patch and a graphical Windows patcher for players who do not code.
 
-**Version 1.0.1 (v1.0.1) — beta; gameplay acceptance tests are pending.**
+**Version 1.0.2 (v1.0.2) — beta; broader gameplay acceptance tests are pending.**
 
-Version 1.0.1 uses internal build v57: a title-only update over v56/Version 1.0.0.
-The two title backgrounds share continuous Sai artwork and the transparent English
-logo, with straight white borders and the menu board grid retained. Gameplay,
-dialogue, fonts, saves and title controls are unchanged. Older source filenames
+Version 1.0.2 uses final internal build v59. It includes the v58 results-screen
+spacing fixes for resignation, time, win/loss and draw labels, plus a narrowly
+scoped half-point result layout correction. Scoring, komi and winner calculations
+are unchanged. The maintainer reports the test build working; exhaustive gameplay
+coverage remains pending. The approved Version 1.0.1 title artwork is retained. Older source filenames
 record when individual components were introduced; they are retained for provenance.
 This is an actively tested translation, not a claim that every optional route,
 graphic or GBA download is fully verified. See QA_REPORT.json, KNOWN_ISSUES.md and
@@ -27,14 +28,14 @@ For Windows, double-click **Hikaru_English_Patcher.exe** from the extracted rele
 See [PATCHING_GUIDE.md](PATCHING_GUIDE.md) for full instructions. A Python option for other platforms is also included (Python 3.10+, no external packages):
 
 ```text
-python project.py apply "Hikaru no Go 3 (Japan).iso" "Hikaru_no_Go_3_English_v1.0.1.bps" "Hikaru no Go 3 English v1.iso"
+python project.py apply "Hikaru no Go 3 (Japan).iso" "Hikaru_no_Go_3_English_v1.0.2.bps" "Hikaru no Go 3 English v1.iso"
 ```
 
 Source ISO: 1,459,978,240 bytes.
 SHA-256: `c6882110afa9ef27bf49f2e0530e37c51164d5ad0c10466cb164fc1b938406fc`
 
 Patched SHA-256:
-`e09fdbaa55b0841b6b5d899cec97b2f936659a72c6def307d5c131cee6ec38fa`
+`fe7839ca19d0fe4fedf21f552dfc742f092e28ca052342979474004b3e58ca6d`
 
 The tool refuses a different source and existing output paths, and verifies the
 finished image. Cold boot the resulting image; old emulator save states may retain

@@ -49,3 +49,7 @@ or complete emulator configs to public issues.
 
 Approved exceptions: Japanese background building/shop signage and collectible
 packaging. Other Japanese gameplay text should be reported with context.
+
+Version 1.0.2: final v59 has positive maintainer runtime feedback; see RESULTS_UPDATE.md.
+Confirm resignation/time, Win/Loss, Draw/Jigo, whole/half margins (including 0.5),
+both stone colours and exit/save after results. Broader acceptance remains pending.

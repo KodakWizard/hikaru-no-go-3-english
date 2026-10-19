@@ -1,0 +1,932 @@
+{
+  "version": "internal test v58",
+  "source_sha256": "c6882110afa9ef27bf49f2e0530e37c51164d5ad0c10466cb164fc1b938406fc",
+  "previous_sha256": "e09fdbaa55b0841b6b5d899cec97b2f936659a72c6def307d5c131cee6ec38fa",
+  "output_sha256": "9f291e51f146958dc2bd351d2c78eada17fa8ff54a8b27d7d5266753b27d71f8",
+  "modified_active_files": [
+    "2D/win.bpe"
+  ],
+  "modified_images": [
+    "win43_0.D4",
+    "win43_1.D4",
+    "win43_2.D4",
+    "win43_3.D4",
+    "win43_4.D4",
+    "win43_5.D4"
+  ],
+  "atlas_changes": [
+    {
+      "image": "win43_0.D4",
+      "label": "0",
+      "cell": [
+        0,
+        0,
+        32,
+        38
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        8,
+        8,
+        23,
+        30
+      ],
+      "after_bbox": [
+        8,
+        8,
+        23,
+        30
+      ],
+      "baseline": 28,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_0.D4",
+      "label": "1",
+      "cell": [
+        32,
+        0,
+        64,
+        38
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        9,
+        8,
+        21,
+        30
+      ],
+      "after_bbox": [
+        9,
+        8,
+        21,
+        30
+      ],
+      "baseline": 28,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_0.D4",
+      "label": "2",
+      "cell": [
+        64,
+        0,
+        96,
+        38
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        8,
+        8,
+        23,
+        30
+      ],
+      "after_bbox": [
+        8,
+        8,
+        23,
+        30
+      ],
+      "baseline": 28,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_0.D4",
+      "label": "3",
+      "cell": [
+        96,
+        0,
+        128,
+        38
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        8,
+        8,
+        24,
+        30
+      ],
+      "after_bbox": [
+        8,
+        8,
+        24,
+        30
+      ],
+      "baseline": 28,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_0.D4",
+      "label": "4",
+      "cell": [
+        128,
+        0,
+        160,
+        38
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        8,
+        9,
+        24,
+        29
+      ],
+      "after_bbox": [
+        8,
+        9,
+        24,
+        29
+      ],
+      "baseline": 28,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_0.D4",
+      "label": "5",
+      "cell": [
+        160,
+        0,
+        192,
+        38
+      ],
+      "translation": [
+        0,
+        1
+      ],
+      "before_bbox": [
+        8,
+        8,
+        24,
+        30
+      ],
+      "after_bbox": [
+        8,
+        9,
+        24,
+        31
+      ],
+      "baseline": 28,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_0.D4",
+      "label": "6",
+      "cell": [
+        192,
+        0,
+        224,
+        38
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        8,
+        8,
+        24,
+        30
+      ],
+      "after_bbox": [
+        8,
+        8,
+        24,
+        30
+      ],
+      "baseline": 28,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_0.D4",
+      "label": "7",
+      "cell": [
+        224,
+        0,
+        256,
+        38
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        8,
+        9,
+        24,
+        29
+      ],
+      "after_bbox": [
+        8,
+        9,
+        24,
+        29
+      ],
+      "baseline": 28,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_0.D4",
+      "label": "8",
+      "cell": [
+        256,
+        0,
+        288,
+        38
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        8,
+        8,
+        24,
+        30
+      ],
+      "after_bbox": [
+        8,
+        8,
+        24,
+        30
+      ],
+      "baseline": 28,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_0.D4",
+      "label": "9",
+      "cell": [
+        288,
+        0,
+        320,
+        38
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        8,
+        8,
+        24,
+        30
+      ],
+      "after_bbox": [
+        8,
+        8,
+        24,
+        30
+      ],
+      "baseline": 28,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_1.D4",
+      "label": "MV",
+      "cell": [
+        0,
+        0,
+        32,
+        38
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        2,
+        8,
+        31,
+        29
+      ],
+      "after_bbox": [
+        2,
+        8,
+        31,
+        29
+      ],
+      "baseline": 28,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_2.D4",
+      "label": "W",
+      "cell": [
+        0,
+        0,
+        38,
+        42
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        6,
+        10,
+        32,
+        31
+      ],
+      "after_bbox": [
+        6,
+        10,
+        32,
+        31
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_2.D4",
+      "label": "B",
+      "cell": [
+        38,
+        0,
+        76,
+        42
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        10,
+        10,
+        28,
+        31
+      ],
+      "after_bbox": [
+        10,
+        10,
+        28,
+        31
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_2.D4",
+      "label": "pt",
+      "cell": [
+        76,
+        0,
+        114,
+        42
+      ],
+      "translation": [
+        0,
+        3
+      ],
+      "before_bbox": [
+        7,
+        8,
+        32,
+        34
+      ],
+      "after_bbox": [
+        7,
+        11,
+        32,
+        37
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_2.D4",
+      "label": ".5",
+      "cell": [
+        114,
+        0,
+        152,
+        42
+      ],
+      "translation": [
+        0,
+        1
+      ],
+      "before_bbox": [
+        9,
+        10,
+        30,
+        32
+      ],
+      "after_bbox": [
+        9,
+        11,
+        30,
+        33
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_3.D4",
+      "label": "0",
+      "cell": [
+        0,
+        0,
+        38,
+        42
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        11,
+        10,
+        26,
+        32
+      ],
+      "after_bbox": [
+        11,
+        10,
+        26,
+        32
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_3.D4",
+      "label": "1",
+      "cell": [
+        38,
+        0,
+        76,
+        42
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        12,
+        10,
+        24,
+        32
+      ],
+      "after_bbox": [
+        12,
+        10,
+        24,
+        32
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_3.D4",
+      "label": "2",
+      "cell": [
+        76,
+        0,
+        114,
+        42
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        11,
+        10,
+        26,
+        32
+      ],
+      "after_bbox": [
+        11,
+        10,
+        26,
+        32
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_3.D4",
+      "label": "3",
+      "cell": [
+        114,
+        0,
+        152,
+        42
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        11,
+        10,
+        27,
+        32
+      ],
+      "after_bbox": [
+        11,
+        10,
+        27,
+        32
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_3.D4",
+      "label": "4",
+      "cell": [
+        152,
+        0,
+        190,
+        42
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        11,
+        11,
+        27,
+        31
+      ],
+      "after_bbox": [
+        11,
+        11,
+        27,
+        31
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_3.D4",
+      "label": "5",
+      "cell": [
+        190,
+        0,
+        228,
+        42
+      ],
+      "translation": [
+        0,
+        1
+      ],
+      "before_bbox": [
+        11,
+        10,
+        27,
+        32
+      ],
+      "after_bbox": [
+        11,
+        11,
+        27,
+        33
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_3.D4",
+      "label": "6",
+      "cell": [
+        228,
+        0,
+        266,
+        42
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        11,
+        10,
+        27,
+        32
+      ],
+      "after_bbox": [
+        11,
+        10,
+        27,
+        32
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_3.D4",
+      "label": "7",
+      "cell": [
+        266,
+        0,
+        304,
+        42
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        11,
+        11,
+        27,
+        31
+      ],
+      "after_bbox": [
+        11,
+        11,
+        27,
+        31
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_3.D4",
+      "label": "8",
+      "cell": [
+        304,
+        0,
+        342,
+        42
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        11,
+        10,
+        27,
+        32
+      ],
+      "after_bbox": [
+        11,
+        10,
+        27,
+        32
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_3.D4",
+      "label": "9",
+      "cell": [
+        342,
+        0,
+        380,
+        42
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        11,
+        10,
+        27,
+        32
+      ],
+      "after_bbox": [
+        11,
+        10,
+        27,
+        32
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_4.D4",
+      "label": "Win",
+      "cell": [
+        0,
+        0,
+        68,
+        42
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "before_bbox": [
+        10,
+        10,
+        56,
+        31
+      ],
+      "after_bbox": [
+        10,
+        10,
+        56,
+        31
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_4.D4",
+      "label": "Loss",
+      "cell": [
+        68,
+        0,
+        136,
+        42
+      ],
+      "translation": [
+        0,
+        1
+      ],
+      "before_bbox": [
+        6,
+        10,
+        63,
+        32
+      ],
+      "after_bbox": [
+        6,
+        11,
+        63,
+        33
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_5.D4",
+      "label": "Time",
+      "cell": [
+        0,
+        0,
+        138,
+        42
+      ],
+      "translation": [
+        -34,
+        1
+      ],
+      "before_bbox": [
+        40,
+        10,
+        98,
+        32
+      ],
+      "after_bbox": [
+        6,
+        11,
+        64,
+        33
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_5.D4",
+      "label": "Jigo",
+      "cell": [
+        138,
+        0,
+        276,
+        42
+      ],
+      "translation": [
+        -32,
+        3
+      ],
+      "before_bbox": [
+        43,
+        8,
+        95,
+        34
+      ],
+      "after_bbox": [
+        11,
+        11,
+        63,
+        37
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_5.D4",
+      "label": "Resign",
+      "cell": [
+        276,
+        0,
+        414,
+        42
+      ],
+      "translation": [
+        -23,
+        3
+      ],
+      "before_bbox": [
+        29,
+        8,
+        109,
+        34
+      ],
+      "after_bbox": [
+        6,
+        11,
+        86,
+        37
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    },
+    {
+      "image": "win43_5.D4",
+      "label": "Draw",
+      "cell": [
+        414,
+        0,
+        552,
+        42
+      ],
+      "translation": [
+        -28,
+        1
+      ],
+      "before_bbox": [
+        39,
+        10,
+        100,
+        32
+      ],
+      "after_bbox": [
+        11,
+        11,
+        72,
+        33
+      ],
+      "baseline": 30,
+      "visible_pixels_exact": true
+    }
+  ],
+  "layout_audit": {
+    "static_cases": 9010,
+    "minimum_gap_after": 12,
+    "minimum_gap_before": -5,
+    "all_result_glyphs_common_baseline": 30,
+    "move_count_baseline": 28,
+    "no_extra_outline_or_resampling": true,
+    "coverage": [
+      "both colours",
+      "win/loss",
+      "resignation",
+      "timeout",
+      "jigo",
+      "draw",
+      "0..999 integer and half-point margins",
+      "0..999 moves"
+    ],
+    "limits": [
+      "Static placement model, not full renderer or runtime execution.",
+      "Native lower-row ordering of pt and .5 is retained; formatting order is outside this artwork-only correction.",
+      "Move-count native digit advances are retained; wide spacing is not tightened by code changes."
+    ]
+  },
+  "decoded_archive_bytes": 2165925,
+  "stored_archive_bytes": 808217,
+  "placement": 132120576,
+  "live_dol_extent_reserved": [
+    129105920,
+    132102164
+  ],
+  "native_formats_dimensions_palettes_descriptors_unchanged": true,
+  "existing_visible_rgba_pixels_preserved": true,
+  "no_resampling_new_outline_or_halo": true,
+  "all719_active_files_checked": true,
+  "whole_disc_comparison_passed": true,
+  "code_fonts_title_dialogue_scripts_saves_exact_v57": true,
+  "patch": {
+    "bps_verified": true,
+    "reconstructed_sha256": "9f291e51f146958dc2bd351d2c78eada17fa8ff54a8b27d7d5266753b27d71f8",
+    "source_crc32": "9e36503d",
+    "target_crc32": "666ee565",
+    "bytes": 118798194,
+    "commands": 934811
+  },
+  "status": "Local test only; Dolphin result appearance/exit testing pending; GitHub remains Version1.0.1."
+}

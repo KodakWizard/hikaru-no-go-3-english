@@ -1,49 +1,295 @@
 {
-  "version": "internal test v57",
+  "version": "internal test v59",
   "source_sha256": "c6882110afa9ef27bf49f2e0530e37c51164d5ad0c10466cb164fc1b938406fc",
-  "previous_sha256": "372cc172e7ed33fe0d5313f8ed6c5c94e6152700954e571b802a6abbb14cdf87",
-  "output_sha256": "e09fdbaa55b0841b6b5d899cec97b2f936659a72c6def307d5c131cee6ec38fa",
-  "modified_active_files": [
-    "title/title.bpe"
+  "previous_sha256": "9f291e51f146958dc2bd351d2c78eada17fa8ff54a8b27d7d5266753b27d71f8",
+  "output_sha256": "fe7839ca19d0fe4fedf21f552dfc742f092e28ca052342979474004b3e58ca6d",
+  "dol_offset": 129105920,
+  "instruction_changes": [
+    {
+      "ram": "0x8012f054",
+      "dol_offset": "0x118ad4",
+      "before": "3c604330",
+      "after": "3c604330",
+      "before_asm": "lis r3, 0x4330",
+      "after_asm": "lis r3, 0x4330"
+    },
+    {
+      "ram": "0x8012f058",
+      "dol_offset": "0x118ad8",
+      "before": "381f0026",
+      "after": "381ffff2",
+      "before_asm": "addi r0, r31, 0x26",
+      "after_asm": "addi r0, r31, -0xe"
+    },
+    {
+      "ram": "0x8012f05c",
+      "dol_offset": "0x118adc",
+      "before": "809c0048",
+      "after": "906100d0",
+      "before_asm": "lwz r4, 0x48(r28)",
+      "after_asm": "stw r3, 0xd0(r1)"
+    },
+    {
+      "ram": "0x8012f060",
+      "dol_offset": "0x118ae0",
+      "before": "38a00000",
+      "after": "900100d4",
+      "before_asm": "li r5, 0",
+      "after_asm": "stw r0, 0xd4(r1)"
+    },
+    {
+      "ram": "0x8012f064",
+      "dol_offset": "0x118ae4",
+      "before": "900100d4",
+      "after": "c80100d0",
+      "before_asm": "stw r0, 0xd4(r1)",
+      "after_asm": "lfd f0, 0xd0(r1)"
+    },
+    {
+      "ram": "0x8012f068",
+      "dol_offset": "0x118ae8",
+      "before": "381f004c",
+      "after": "c862be00",
+      "before_asm": "addi r0, r31, 0x4c",
+      "after_asm": "lfd f3, -0x4200(r2)"
+    },
+    {
+      "ram": "0x8012f06c",
+      "dol_offset": "0x118aec",
+      "before": "c862be00",
+      "after": "ec001828",
+      "before_asm": "lfd f3, -0x4200(r2)",
+      "after_asm": "fsubs f0, f0, f3"
+    },
+    {
+      "ram": "0x8012f070",
+      "dol_offset": "0x118af0",
+      "before": "906100d0",
+      "after": "c082bdc0",
+      "before_asm": "stw r3, 0xd0(r1)",
+      "after_asm": "lfs f4, -0x4240(r2)"
+    },
+    {
+      "ram": "0x8012f074",
+      "dol_offset": "0x118af4",
+      "before": "c082bdc0",
+      "after": "809c0048",
+      "before_asm": "lfs f4, -0x4240(r2)",
+      "after_asm": "lwz r4, 0x48(r28)"
+    },
+    {
+      "ram": "0x8012f078",
+      "dol_offset": "0x118af8",
+      "before": "98a40034",
+      "after": "38a00000",
+      "before_asm": "stb r5, 0x34(r4)",
+      "after_asm": "li r5, 0"
+    },
+    {
+      "ram": "0x8012f07c",
+      "dol_offset": "0x118afc",
+      "before": "c80100d0",
+      "after": "98a40034",
+      "before_asm": "lfd f0, 0xd0(r1)",
+      "after_asm": "stb r5, 0x34(r4)"
+    },
+    {
+      "ram": "0x8012f080",
+      "dol_offset": "0x118b00",
+      "before": "809c0048",
+      "after": "c0240008",
+      "before_asm": "lwz r4, 0x48(r28)",
+      "after_asm": "lfs f1, 8(r4)"
+    },
+    {
+      "ram": "0x8012f084",
+      "dol_offset": "0x118b04",
+      "before": "ec001828",
+      "after": "ec01013a",
+      "before_asm": "fsubs f0, f0, f3",
+      "after_asm": "fmadds f0, f1, f4, f0"
+    },
+    {
+      "ram": "0x8012f088",
+      "dol_offset": "0x118b08",
+      "before": "c042becc",
+      "after": "d0040000",
+      "before_asm": "lfs f2, -0x4134(r2)",
+      "after_asm": "stfs f0, 0(r4)"
+    },
+    {
+      "ram": "0x8012f08c",
+      "dol_offset": "0x118b0c",
+      "before": "c0240008",
+      "after": "381f0037",
+      "before_asm": "lfs f1, 8(r4)",
+      "after_asm": "addi r0, r31, 0x37"
+    },
+    {
+      "ram": "0x8012f090",
+      "dol_offset": "0x118b10",
+      "before": "900100cc",
+      "after": "900100d4",
+      "before_asm": "stw r0, 0xcc(r1)",
+      "after_asm": "stw r0, 0xd4(r1)"
+    },
+    {
+      "ram": "0x8012f094",
+      "dol_offset": "0x118b14",
+      "before": "ec01013a",
+      "after": "c80100d0",
+      "before_asm": "fmadds f0, f1, f4, f0",
+      "after_asm": "lfd f0, 0xd0(r1)"
+    },
+    {
+      "ram": "0x8012f098",
+      "dol_offset": "0x118b18",
+      "before": "906100c8",
+      "after": "ec001828",
+      "before_asm": "stw r3, 0xc8(r1)",
+      "after_asm": "fsubs f0, f0, f3"
+    },
+    {
+      "ram": "0x8012f09c",
+      "dol_offset": "0x118b1c",
+      "before": "d0040000",
+      "after": "c024000c",
+      "before_asm": "stfs f0, 0(r4)",
+      "after_asm": "lfs f1, 0xc(r4)"
+    },
+    {
+      "ram": "0x8012f0a0",
+      "dol_offset": "0x118b20",
+      "before": "c80100c8",
+      "after": "eca1013c",
+      "before_asm": "lfd f0, 0xc8(r1)",
+      "after_asm": "fnmsubs f5, f1, f4, f0"
+    },
+    {
+      "ram": "0x8012f0a4",
+      "dol_offset": "0x118b24",
+      "before": "c024000c",
+      "after": "80dc0044",
+      "before_asm": "lfs f1, 0xc(r4)",
+      "after_asm": "lwz r6, 0x44(r28)"
+    },
+    {
+      "ram": "0x8012f0a8",
+      "dol_offset": "0x118b28",
+      "before": "ec001828",
+      "after": "d0a60000",
+      "before_asm": "fsubs f0, f0, f3",
+      "after_asm": "stfs f5, 0(r6)"
+    },
+    {
+      "ram": "0x8012f0ac",
+      "dol_offset": "0x118b2c",
+      "before": "ec21113a",
+      "after": "c0c60004",
+      "before_asm": "fmadds f1, f1, f4, f2",
+      "after_asm": "lfs f6, 4(r6)"
+    },
+    {
+      "ram": "0x8012f0b0",
+      "dol_offset": "0x118b30",
+      "before": "d0240004",
+      "after": "d0c40004",
+      "before_asm": "stfs f1, 4(r4)",
+      "after_asm": "stfs f6, 4(r4)"
+    },
+    {
+      "ram": "0x8012f0b4",
+      "dol_offset": "0x118b34",
+      "before": "807c0058",
+      "after": "807c0058",
+      "before_asm": "lwz r3, 0x58(r28)",
+      "after_asm": "lwz r3, 0x58(r28)"
+    },
+    {
+      "ram": "0x8012f0b8",
+      "dol_offset": "0x118b38",
+      "before": "c0230008",
+      "after": "c0230008",
+      "before_asm": "lfs f1, 8(r3)",
+      "after_asm": "lfs f1, 8(r3)"
+    },
+    {
+      "ram": "0x8012f0bc",
+      "dol_offset": "0x118b3c",
+      "before": "ec01013a",
+      "after": "ec01013a",
+      "before_asm": "fmadds f0, f1, f4, f0",
+      "after_asm": "fmadds f0, f1, f4, f0"
+    },
+    {
+      "ram": "0x8012f0c0",
+      "dol_offset": "0x118b40",
+      "before": "d0030000",
+      "after": "d0030000",
+      "before_asm": "stfs f0, 0(r3)",
+      "after_asm": "stfs f0, 0(r3)"
+    },
+    {
+      "ram": "0x8012f0c4",
+      "dol_offset": "0x118b44",
+      "before": "c003000c",
+      "after": "d0c30004",
+      "before_asm": "lfs f0, 0xc(r3)",
+      "after_asm": "stfs f6, 4(r3)"
+    },
+    {
+      "ram": "0x8012f0c8",
+      "dol_offset": "0x118b48",
+      "before": "ec00113a",
+      "after": "60000000",
+      "before_asm": "fmadds f0, f0, f4, f2",
+      "after_asm": "nop "
+    },
+    {
+      "ram": "0x8012f0cc",
+      "dol_offset": "0x118b4c",
+      "before": "d0030004",
+      "after": "60000000",
+      "before_asm": "stfs f0, 4(r3)",
+      "after_asm": "nop "
+    }
   ],
-  "modified_images": [
-    "tit00.D4",
-    "tit02.D4"
-  ],
-  "decoded_archive_bytes": 7317945,
-  "stored_archive_bytes": 2441233,
-  "placement": 126091264,
-  "native_dimensions_formats_descriptors_unchanged": true,
-  "code_fonts_dialogue_scripts_saves_unchanged": true,
-  "all_719_active_files_checked": true,
-  "whole_disc_comparison_passed": true,
-  "original_and_v56_preserved": true,
-  "artwork": {
-    "restoration_crop": [
-      0,
-      115,
-      1448,
-      857
+  "checks": {
+    "integer_cases": 4000,
+    "half_cases": 4000,
+    "display_cases": 8000,
+    "actual_ppc_words_interpreted": true,
+    "integer_path_and_writes_exact": true,
+    "half_changes_only_three_x_coordinates": true,
+    "stale_incoming_half_and_outcome_y_tested": true,
+    "y_visibility_dimensions_and_nonvolatile_registers_preserved": true,
+    "score_data_global_constants_and_save_memory_not_written": true,
+    "limits": "Offline block execution with original pre-positioned sprite state; not Dolphin gameplay.",
+    "direct_callers": [
+      "0x8012df0c",
+      "0x8012df84",
+      "0x8012e350",
+      "0x8012e3cc"
     ],
-    "logo_box": [
-      24,
-      60,
-      389,
-      196
-    ],
-    "logo_source": "GitHub_Release_v1/project-logo.png",
-    "generated_logo_master_used": false,
-    "copyright_pixels_exact_v56": true,
-    "upper_margin_uniform_white": true,
-    "grid_composited_before_logo": true
+    "all_direct_callers_in_result_screen_setter": true,
+    "only_absolute_reference_is_unchanged_exception_unwind_index": true,
+    "original_early_y_initialization_exact": true,
+    "no_branch_call_helper_allocation_or_data_constant_changes": true,
+    "minimum_decimal_gap": 3.0,
+    "minimum_unit_gap": 6.0,
+    "minimum_outcome_gap": 14.0
   },
   "patch": {
     "bps_verified": true,
-    "reconstructed_sha256": "e09fdbaa55b0841b6b5d899cec97b2f936659a72c6def307d5c131cee6ec38fa",
+    "reconstructed_sha256": "fe7839ca19d0fe4fedf21f552dfc742f092e28ca052342979474004b3e58ca6d",
     "source_crc32": "9e36503d",
-    "target_crc32": "f448953e",
-    "bytes": 117983986,
-    "commands": 928413
+    "target_crc32": "8b2fb5f8",
+    "bytes": 118798194,
+    "commands": 934811
   },
-  "status": "Title-only candidate; cold-boot Dolphin visual/animation test pending. GitHub release unchanged."
+  "all719_resources_fst_art_fonts_scripts_exact_v58": true,
+  "scoring_komi_winner_calculations_and_all_other_unrecorded_bytes_exact_v58": true,
+  "whole_disc_comparison_passed": true,
+  "original_and_v58_preserved": true,
+  "status": "Local result-display-only test. No Dolphin runtime certification. GitHub remains1.0.1."
 }

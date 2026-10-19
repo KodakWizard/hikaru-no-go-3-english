@@ -23,3 +23,11 @@ exact v57 target SHA-256 from the original Japanese image. All 5,917 catalogue
 baselines were checked against the new image. The earlier single-slot editor
 write test applies to the unchanged editor/text layout from Version 1.0.0.
 No new editor-write or interactive GUI/gameplay certification is claimed.
+
+Version 1.0.2: fresh complete static audit passed with the exact final v59
+instruction whitelist. Eight portable tests passed (project-local temporary
+folder). Updated compiled Windows and Python patchers each reconstructed the
+exact final v59 SHA-256 from the original ISO. All 5,917 editable baselines match.
+9,010 placement cases and 8,000 offline instruction cases passed during build QA.
+Maintainer runtime feedback is positive; broader acceptance testing is pending.
+The editor is unchanged; no new editor-write or interactive GUI certification.
