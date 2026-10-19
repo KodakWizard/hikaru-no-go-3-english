@@ -37,6 +37,21 @@ old code or graphics. Normal memory-card saves can be used. To narrow an existin
 Latin player name, open the game's name editor and confirm it once. Name editing
 itself retains the original wide-character display and deletion rules.
 
+## Screenshots
+
+Examples captured in Dolphin, provided by the project maintainer.
+
+<table>
+  <tr>
+    <td><img src="screenshot-title.png" alt="English title screen with Story and Free Match" width="420"><br>Title screen</td>
+    <td><img src="screenshot-modes.png" alt="Translated game modes and menu help" width="420"><br>Game modes</td>
+  </tr>
+  <tr>
+    <td><img src="screenshot-room.png" alt="Sai's translated room dialogue" width="420"><br>Room dialogue</td>
+    <td><img src="screenshot-map.png" alt="Translated character dialogue on the map" width="420"><br>Map dialogue</td>
+  </tr>
+</table>
+
 ## Improve the translation
 
 See CONTRIBUTING.md. `editable_text.json` contains 5,917 current verified GameCube
