@@ -10,5 +10,5 @@ Python, Pillow, Capstone, GitHub and any patching/emulation software retain thei
 own licences; dependencies and commercial font binaries are not bundled. Original
 game credits remain authoritative for original game production attribution.
 
-The repository banner reuses the approved English title-screen artwork. Underlying
+The repository logo derives from the approved English title-screen artwork. Underlying
 game illustration and character/logo rights are not transferred by the MIT licence.

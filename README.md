@@ -1,4 +1,4 @@
-<p align="center"><img src="project-banner.png" alt="Hikaru no Go 3 / ヒカルの碁3 English translation patch for Nintendo GameCube" width="720"></p>
+<p align="center"><img src="project-logo.png" alt="Hikaru no Go 3 / ヒカルの碁3 English translation patch for Nintendo GameCube" width="680"></p>
 
 # Hikaru no Go 3 / ヒカルの碁3 — English translation
 
