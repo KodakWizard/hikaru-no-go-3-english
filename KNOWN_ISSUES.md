@@ -18,3 +18,6 @@
 - Japanese scenery signage and collectible packaging are intentionally retained.
 - Modified images may not match achievement-service game hashes. Achievement support
   has not been validated; it must not be advertised as supported.
+
+Version 1.0.1 title: native encoding and whole-disc checks pass. Complete
+cold-boot title transitions and both selections still need runtime testing.

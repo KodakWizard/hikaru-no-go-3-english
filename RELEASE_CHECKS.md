@@ -16,3 +16,10 @@
 - The compiled Windows patcher streaming engine independently applied the full BPS
   and reproduced the exact target SHA-256. Its interactive file-dialogue flow still
   needs a user acceptance check; this engine test does not certify gameplay.
+
+Version 1.0.1: fresh full-disc static audit passed; eight portable-tool tests passed.
+The updated compiled Windows engine and Python patcher each reconstructed the
+exact v57 target SHA-256 from the original Japanese image. All 5,917 catalogue
+baselines were checked against the new image. The earlier single-slot editor
+write test applies to the unchanged editor/text layout from Version 1.0.0.
+No new editor-write or interactive GUI/gameplay certification is claimed.

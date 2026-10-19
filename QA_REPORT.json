@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "source_sha256": "c6882110afa9ef27bf49f2e0530e37c51164d5ad0c10466cb164fc1b938406fc",
-  "target_sha256": "372cc172e7ed33fe0d5313f8ed6c5c94e6152700954e571b802a6abbb14cdf87",
+  "target_sha256": "e09fdbaa55b0841b6b5d899cec97b2f936659a72c6def307d5c131cee6ec38fa",
   "active_files": 719,
   "runtime_status": "PENDING manual checklist; not full-game certification",
   "checks": {
@@ -28,7 +28,8 @@
     "gba_match_entries": 172,
     "gba_book_entries": 2009,
     "native_archives_decoded": 45,
-    "native_images_decoded": 1216
+    "native_images_decoded": 1216,
+    "title_only_v56_comparison": "PASS: title/title.bpe plus eight-byte FST entry; 719 active files checked"
   },
   "coverage_gaps": [
     "Unsupported complete dispatcher parser: script/mission/mission.gcs",
@@ -39,6 +40,6 @@
     "Japanese background building/shop signage and collectible packaging retained with approval."
   ],
   "residual_candidates": [],
-  "status": "beta",
-  "internal_build": "0.56"
+  "internal_build": "0.57",
+  "status": "beta"
 }

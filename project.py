@@ -12,7 +12,7 @@ import struct
 import zlib
 
 SOURCE_SHA = 'c6882110afa9ef27bf49f2e0530e37c51164d5ad0c10466cb164fc1b938406fc'
-TARGET_SHA = '372cc172e7ed33fe0d5313f8ed6c5c94e6152700954e571b802a6abbb14cdf87'
+TARGET_SHA = 'e09fdbaa55b0841b6b5d899cec97b2f936659a72c6def307d5c131cee6ec38fa'
 
 def sha(path):
     h=hashlib.sha256()

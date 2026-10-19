@@ -1,30 +1,49 @@
 {
-  "version": "0.56",
+  "version": "internal test v57",
   "source_sha256": "c6882110afa9ef27bf49f2e0530e37c51164d5ad0c10466cb164fc1b938406fc",
-  "previous_sha256": "762a9330cc52d2c57915f423286720d80582f25effbf8549cd5847abb15a438d",
-  "output_sha256": "372cc172e7ed33fe0d5313f8ed6c5c94e6152700954e571b802a6abbb14cdf87",
-  "dol_offset": 129105920,
-  "dol_bytes": 2996244,
-  "room_story_entries_surveyed": 1234,
-  "multiline_entries_reviewed": 896,
-  "layout_changes": 478,
-  "fewer_lines": 270,
-  "wording_and_punctuation_exact_v55": true,
-  "all_declared_code_sections_exact_v55": true,
-  "v55_name_entry_fix_retained": true,
-  "small_battle_bubbles_exact_v55": true,
-  "all719_active_resources_exact_v55": true,
-  "fonts_graphics_scripts_gba_exact_v55": true,
-  "storage_and_runtime_tokens_verified": true,
-  "whole_disc_differences_verified": true,
-  "saves_settings_untouched": true,
+  "previous_sha256": "372cc172e7ed33fe0d5313f8ed6c5c94e6152700954e571b802a6abbb14cdf87",
+  "output_sha256": "e09fdbaa55b0841b6b5d899cec97b2f936659a72c6def307d5c131cee6ec38fa",
+  "modified_active_files": [
+    "title/title.bpe"
+  ],
+  "modified_images": [
+    "tit00.D4",
+    "tit02.D4"
+  ],
+  "decoded_archive_bytes": 7317945,
+  "stored_archive_bytes": 2441233,
+  "placement": 126091264,
+  "native_dimensions_formats_descriptors_unchanged": true,
+  "code_fonts_dialogue_scripts_saves_unchanged": true,
+  "all_719_active_files_checked": true,
+  "whole_disc_comparison_passed": true,
+  "original_and_v56_preserved": true,
+  "artwork": {
+    "restoration_crop": [
+      0,
+      115,
+      1448,
+      857
+    ],
+    "logo_box": [
+      24,
+      60,
+      389,
+      196
+    ],
+    "logo_source": "GitHub_Release_v1/project-logo.png",
+    "generated_logo_master_used": false,
+    "copyright_pixels_exact_v56": true,
+    "upper_margin_uniform_white": true,
+    "grid_composited_before_logo": true
+  },
   "patch": {
     "bps_verified": true,
-    "reconstructed_sha256": "372cc172e7ed33fe0d5313f8ed6c5c94e6152700954e571b802a6abbb14cdf87",
+    "reconstructed_sha256": "e09fdbaa55b0841b6b5d899cec97b2f936659a72c6def307d5c131cee6ec38fa",
     "source_crc32": "9e36503d",
-    "target_crc32": "e85fc4e1",
-    "bytes": 116291882,
-    "commands": 915409
+    "target_crc32": "f448953e",
+    "bytes": 117983986,
+    "commands": 928413
   },
-  "runtime": "Large-bubble layout pending user Dolphin comparison; no new runtime code or font changes."
+  "status": "Title-only candidate; cold-boot Dolphin visual/animation test pending. GitHub release unchanged."
 }

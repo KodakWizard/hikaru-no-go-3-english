@@ -36,3 +36,6 @@ future work. Please keep this distinction in derivative release documentation.
 
 WindowsPatcher.cs is the standalone graphical patcher source. Build instructions
 are in BUILD_WINDOWS_PATCHER.md. Its stream engine is verified against the full ISO.
+
+Version 1.0.1 adds title_layers_v57.py, build_title_layers_v57.py and their
+restored background/logo working PNGs to development_sources.zip. See TITLE_UPDATE.md.
