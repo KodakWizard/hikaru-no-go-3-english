@@ -1,4 +1,4 @@
-<p align="center"><img src="project-logo.png" alt="Hikaru no Go 3 / ヒカルの碁3 English translation patch for Nintendo GameCube" width="680"></p>
+﻿<p align="center"><img src="project-logo.png" alt="Hikaru no Go 3 / ヒカルの碁3 English translation patch for Nintendo GameCube" width="680"></p>
 
 # Hikaru no Go 3 / ヒカルの碁3 — English translation
 
@@ -49,8 +49,8 @@ Examples captured in Dolphin, provided by the project maintainer.
     <td><img src="screenshot-modes.png" alt="Translated game modes and menu help" width="420"><br>Game modes</td>
   </tr>
   <tr>
-    <td><img src="screenshot-room.png" alt="Sai's translated room dialogue" width="420"><br>Room dialogue</td>
-    <td><img src="screenshot-map.png" alt="Translated character dialogue on the map" width="420"><br>Map dialogue</td>
+    <td><img src="screenshot-room.png?v=2" alt="Sai's translated room dialogue" width="420"><br>Room dialogue</td>
+    <td><img src="screenshot-map.png?v=2" alt="Translated character dialogue on the map" width="420"><br>Map dialogue</td>
   </tr>
   <tr>
     <td><img src="screenshot-name-entry.png" alt="Translated name-entry controls and Latin alphabet" width="420"><br>Name entry</td>
@@ -94,3 +94,4 @@ under MIT; see LICENSE and LICENSE_SCOPE.md. Original game material and third-pa
 components retain their respective ownership and terms. The original game credits
 remain in the game. This is an unofficial fan project, unaffiliated with the rights
 holders. Contributions and corrections are welcome.
+
