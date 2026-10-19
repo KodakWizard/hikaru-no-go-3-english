@@ -33,3 +33,6 @@ GBA pointers and native texture decoding. Input fixtures must be supplied locall
 The release is exactly reproducible with the BPS and required source ISO. A single
 fully portable build from all historical artistic/translation source edits remains
 future work. Please keep this distinction in derivative release documentation.
+
+WindowsPatcher.cs is the standalone graphical patcher source. Build instructions
+are in BUILD_WINDOWS_PATCHER.md. Its stream engine is verified against the full ISO.

@@ -1,4 +1,4 @@
-# Manual runtime acceptance checklist — v0.56 beta
+# Manual runtime acceptance checklist — Version 1 beta
 
 Status: **all items below pending**. Static checks are recorded separately.
 Use a copy of a normal memory-card save. Cold boot; do not resume an older save

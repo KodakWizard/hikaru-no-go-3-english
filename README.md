@@ -1,21 +1,28 @@
+<p align="center"><img src="project-banner.png" alt="Hikaru no Go 3 English translation" width="720"></p>
+
 # Hikaru no Go 3 — English translation
 
 Community English translation of the Japanese GameCube game, with editable text,
 original development tools and documented binary patching work.
 
-**Current build: v0.56 beta. Gameplay acceptance tests are pending.**
+**Version 1 (v1.0.0) — beta; gameplay acceptance tests are pending.**
+
+Version 1 uses the verified internal development build v56. Older source filenames
+record when individual components were introduced; they are retained for provenance.
 This is an actively tested translation, not a claim that every optional route,
 graphic or GBA download is fully verified. See QA_REPORT.json, KNOWN_ISSUES.md and
 RUNTIME_CHECKLIST.md before reporting or closing a problem.
 
 ## Play
 
-Download the v0.56 beta patch from this repository's Releases page. Extract the
+Download the Version 1 beta patch from this repository's Releases page. Extract the
 release ZIP. Supply your own unmodified Japanese **GHTJA4** disc image.
-Python 3.10 or newer is sufficient; applying the patch has no external dependencies.
+For Windows, double-click **Hikaru_English_Patcher.exe** from the extracted release ZIP. Click **Browse...** to choose your Japanese ISO, then **Apply patch...** and choose a new output filename. The included BPS is selected automatically. No coding, Python or terminal is needed.
+
+See [PATCHING_GUIDE.md](PATCHING_GUIDE.md) for full instructions. A Python option for other platforms is also included (Python 3.10+, no external packages):
 
 ```text
-python project.py apply "Hikaru no Go 3 (Japan).iso" "Hikaru_no_Go_3_English_DialogueLayout_v56.bps" "Hikaru no Go 3 English v56.iso"
+python project.py apply "Hikaru no Go 3 (Japan).iso" "Hikaru_no_Go_3_English_v1.0.0.bps" "Hikaru no Go 3 English v1.iso"
 ```
 
 Source ISO: 1,459,978,240 bytes.
@@ -37,7 +44,7 @@ text-slot records, including Japanese references. Change `english`, retaining
 `baseline` and metadata, then run:
 
 ```text
-python project.py edit "Hikaru no Go 3 English v56.iso" editable_text.json "my-test-build.iso"
+python project.py edit "Hikaru no Go 3 English v1.iso" editable_text.json "my-test-build.iso"
 ```
 
 This conservative editor supports same-size-or-shorter CP932 text and checks

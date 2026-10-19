@@ -1,6 +1,6 @@
 # Contributing
 
-Start from v0.56 beta and reproduce the issue with a cold boot and a normal save.
+Start from Version 1 beta and reproduce the issue with a cold boot and a normal save.
 Open an issue with the screen/route, version, expected result, actual result and a
 screenshot if relevant. Do not attach a game ISO, personal save, account token or
 entire emulator configuration. State whether you used an old save state.

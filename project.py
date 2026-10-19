@@ -1,4 +1,4 @@
-"""Portable v0.56 patch application and conservative English text editing.
+"""Portable Version 1 patch application and conservative English text editing.
 
 Python 3.10+, standard library only. Never opens memory-card or emulator files.
 """
@@ -72,7 +72,7 @@ def apply(source,patch_path,output):
     except Exception:
         # Keep a failed output for diagnosis. The caller never overwrites a file.
         raise
-    print('Verified v0.56 beta:',output)
+    print('Verified Version 1 beta:',output)
 
 def file_locations(f):
     f.seek(0x420);dol,at,n=struct.unpack('>III',f.read(12))
@@ -87,7 +87,7 @@ def file_locations(f):
     return dol,files
 
 def edit(source,catalog_path,output):
-    require(sha(source)==TARGET_SHA,'Text edits must start from the exact v0.56 beta image')
+    require(sha(source)==TARGET_SHA,'Text edits must start from the exact Version 1 beta image')
     catalog=json.loads(Path(catalog_path).read_text(encoding='utf8'));edits={}
     token=lambda s:re.findall(r'\$[0-9]|%[-0-9]*[sd]',s)
     with Path(source).open('rb') as f:
