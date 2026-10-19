@@ -1,9 +1,11 @@
-<p align="center"><img src="project-banner.png" alt="Hikaru no Go 3 English translation" width="720"></p>
+<p align="center"><img src="project-banner.png" alt="Hikaru no Go 3 / ヒカルの碁3 English translation patch for Nintendo GameCube" width="720"></p>
 
-# Hikaru no Go 3 — English translation
+# Hikaru no Go 3 / ヒカルの碁3 — English translation
 
-Community English translation of the Japanese GameCube game, with editable text,
-original development tools and documented binary patching work.
+An English fan translation patch for **Hikaru no Go 3** — **ヒカルの碁3**
+(also written **ヒカルの碁３**) — for **Nintendo GameCube / GCN**, Japanese
+release **GHTJA4**. Includes editable dialogue, original development tools, a BPS
+patch and a graphical Windows patcher for players who do not code.
 
 **Version 1 (v1.0.0) — beta; gameplay acceptance tests are pending.**
 
@@ -49,6 +51,10 @@ Examples captured in Dolphin, provided by the project maintainer.
   <tr>
     <td><img src="screenshot-room.png" alt="Sai's translated room dialogue" width="420"><br>Room dialogue</td>
     <td><img src="screenshot-map.png" alt="Translated character dialogue on the map" width="420"><br>Map dialogue</td>
+  </tr>
+  <tr>
+    <td><img src="screenshot-name-entry.png" alt="Translated name-entry controls and Latin alphabet" width="420"><br>Name entry</td>
+    <td><img src="screenshot-match.png" alt="In-game match with English player name and Captures labels" width="420"><br>In-game match</td>
   </tr>
 </table>
 
