@@ -19,6 +19,17 @@ This is an actively tested translation, not a claim that every optional route,
 graphic or GBA download is fully verified. See QA_REPORT.json, KNOWN_ISSUES.md and
 RUNTIME_CHECKLIST.md before reporting or closing a problem.
 
+## AI assistance and development
+
+This project was developed with AI assistance from **ChatGPT**, including help
+with translation, coding and troubleshooting. I took it through nearly 60
+revisions, reviewing the wording and presentation, testing builds in-game and
+using what I found to guide further fixes and polish.
+
+The released patch reflects that hands-on review and testing. Further testing
+and community feedback are welcome, especially for the remaining cases listed
+in KNOWN_ISSUES.md and RUNTIME_CHECKLIST.md.
+
 ## Play
 
 Download the Version 1 beta patch from this repository's Releases page. Extract the
