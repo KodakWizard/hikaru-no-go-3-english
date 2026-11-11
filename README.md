@@ -1,113 +1,222 @@
-<p align="center"><img src="project-logo.png" alt="Hikaru no Go 3 / ヒカルの碁3 English translation patch for Nintendo GameCube" width="680"></p>
 
-# Hikaru no Go 3 / ヒカルの碁3 — English translation
+<p align="center">
+  <img src="project-logo.png" width="580" alt="Hikaru no Go 3 English translation artwork">
+</p>
 
-An English fan translation patch for **Hikaru no Go 3** — **ヒカルの碁3**
-(also written **ヒカルの碁３**) — for **Nintendo GameCube / GCN**, Japanese
-release **GHTJA4**. Includes editable dialogue, original development tools, a BPS
-patch and a graphical Windows patcher for players who do not code.
+<h1 align="center">Hikaru no Go 3 - English Fan Translation</h1>
 
-**Version 1.0.2 (v1.0.2) — beta; broader gameplay acceptance tests are pending.**
+<p align="center">
+  Bringing the Japan-only GameCube game into English.
+</p>
 
-Version 1.0.2 uses final internal build v59. It includes the v58 results-screen
-spacing fixes for resignation, time, win/loss and draw labels, plus a narrowly
-scoped half-point result layout correction. Scoring, komi and winner calculations
-are unchanged. The maintainer reports the test build working; exhaustive gameplay
-coverage remains pending. The approved Version 1.0.1 title artwork is retained. Older source filenames
-record when individual components were introduced; they are retained for provenance.
-This is an actively tested translation, not a claim that every optional route,
-graphic or GBA download is fully verified. See QA_REPORT.json, KNOWN_ISSUES.md and
-RUNTIME_CHECKLIST.md before reporting or closing a problem.
+<p align="center">
+  <strong>v1.0.4</strong> · Nintendo GameCube · Japanese release (GHTJA4)
+</p>
 
-## AI assistance and development
+<p align="center">
+  <a href="https://github.com/KodakWizard/hikaru-no-go-3-english/releases/download/v1.0.4/Hikaru_no_Go_3_English_v1.0.4.zip"><strong>Download the English Patch</strong></a>
+  &nbsp; · &nbsp;
+  <a href="PATCHING_GUIDE.md">Installation Guide</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/KodakWizard/hikaru-no-go-3-english/issues">Report a Problem</a>
+</p>
 
-This project was developed with AI assistance from **ChatGPT**, including help
-with translation, coding and troubleshooting. I took it through nearly 60
-revisions, reviewing the wording and presentation, testing builds in-game and
-using what I found to guide further fixes and polish.
+---
 
-The released patch reflects that hands-on review and testing. Further testing
-and community feedback are welcome, especially for the remaining cases listed
-in KNOWN_ISSUES.md and RUNTIME_CHECKLIST.md.
+**Hikaru no Go 3 is now pretty much fully translated into English!**
 
-## Play
+I've been working on an English patch for **Hikaru no Go 3 (ヒカルの碁3)**, the Japan-only GameCube game.
 
-Download the Version 1 beta patch from this repository's Releases page. Extract the
-release ZIP. Supply your own unmodified Japanese **GHTJA4** disc image.
-For Windows, double-click **Hikaru_English_Patcher.exe** from the extracted release ZIP. Click **Browse...** to choose your Japanese ISO, then **Apply patch...** and choose a new output filename. The included BPS is selected automatically. No coding, Python or terminal is needed.
+The aim was to make the whole game accessible in English while keeping the feel of the original. That means translated conversations, menus, Go matches, tutorials and plenty of little details throughout the game.
 
-See [PATCHING_GUIDE.md](PATCHING_GUIDE.md) for full instructions. A Python option for other platforms is also included (Python 3.10+, no external packages):
+It's taken quite a few revisions to get here, particularly with all the text that was never designed to fit English. I've spent a lot of time adjusting fonts, speech bubbles, graphics and dialogue to make everything look and sound as natural as possible.
 
-```text
-python project.py apply "Hikaru no Go 3 (Japan).iso" "Hikaru_no_Go_3_English_v1.0.2.bps" "Hikaru no Go 3 English v1.iso"
-```
-
-Source ISO: 1,459,978,240 bytes.
-SHA-256: `c6882110afa9ef27bf49f2e0530e37c51164d5ad0c10466cb164fc1b938406fc`
-
-Patched SHA-256:
-`fe7839ca19d0fe4fedf21f552dfc742f092e28ca052342979474004b3e58ca6d`
-
-The tool refuses a different source and existing output paths, and verifies the
-finished image. Cold boot the resulting image; old emulator save states may retain
-old code or graphics. Normal memory-card saves can be used. To narrow an existing
-Latin player name, open the game's name editor and confirm it once. Name editing
-itself retains the original wide-character display and deletion rules.
+The patch is available to play right now! There are still a few areas that haven't been thoroughly tested, but I'm really happy with how it's turned out.
 
 ## Screenshots
 
-Examples captured in Dolphin, provided by the project maintainer.
+A few screenshots from the English translation running in Dolphin. Click any image to see it full-size.
 
 <table>
   <tr>
-    <td><img src="screenshot-title-v101.png" alt="Version 1.0.1 English title screen with continuous Sai artwork and Push Start prompt" width="420"><br>Title screen</td>
-    <td><img src="screenshot-modes.png" alt="Translated game modes and menu help" width="420"><br>Game modes</td>
+    <td width="50%" align="center">
+      <a href="screenshot-title-v101.png">
+        <img src="screenshot-title-v101.png" width="100%" alt="English title screen">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="screenshot-modes.png">
+        <img src="screenshot-modes.png" width="100%" alt="Translated game modes">
+      </a>
+    </td>
   </tr>
   <tr>
-    <td><img src="screenshot-room-dialogue.png" alt="Sai's translated room dialogue" width="420"><br>Room dialogue</td>
-    <td><img src="screenshot-map-dialogue.png" alt="Translated character dialogue on the map" width="420"><br>Map dialogue</td>
-  </tr>
-  <tr>
-    <td><img src="screenshot-name-entry.png" alt="Translated name-entry controls and Latin alphabet" width="420"><br>Name entry</td>
-    <td><img src="screenshot-match.png" alt="In-game match with English player name and Captures labels" width="420"><br>In-game match</td>
+    <td width="50%" align="center">
+      <a href="screenshot-room-dialogue.png">
+        <img src="screenshot-room-dialogue.png" width="100%" alt="English room dialogue">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="screenshot-map-dialogue.png">
+        <img src="screenshot-map-dialogue.png" width="100%" alt="English map dialogue">
+      </a>
+    </td>
   </tr>
 </table>
 
-## Improve the translation
+<details>
+<summary><strong>More screenshots</strong></summary>
 
-See CONTRIBUTING.md. `editable_text.json` contains 5,917 current verified GameCube
-text-slot records, including Japanese references. Change `english`, retaining
-`baseline` and metadata, then run:
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="screenshot-name-entry.png">
+        <img src="screenshot-name-entry.png" width="100%" alt="English name-entry screen">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="screenshot-match.png">
+        <img src="screenshot-match.png" width="100%" alt="English Go match interface">
+      </a>
+    </td>
+  </tr>
+</table>
 
-```text
-python project.py edit "Hikaru no Go 3 English v1.iso" editable_text.json "my-test-build.iso"
-```
+</details>
 
-This conservative editor supports same-size-or-shorter CP932 text and checks
-placeholders, bounds, shared slots and known bubble budgets. It deliberately
-refuses unsafe expansion. GBA text and broader resource relocation use the
-historical source tools described in SOURCE_GUIDE.md.
+## Getting started
 
-## Source and working files
+**[Download the latest English patch (v1.0.4)](https://github.com/KodakWizard/hikaru-no-go-3-english/releases/download/v1.0.4/Hikaru_no_Go_3_English_v1.0.4.zip)**
 
-The repository contains the portable patch/editor tool, editable current text,
-the latest layout before/after record, QA results, source of the game-side name
-conversion, and an archive of the original development Python sources and textual
-working manifests. The archive preserves the development layout and is intended
-for research and continued work. Historical builders depend on earlier local
-builds and extracted input; they are not a one-command clean-room source build.
-Exact reproduction of the released ISO is supported through the verified BPS
-patch and original Japanese ISO.
+You'll need your own **legally obtained, unmodified Japanese copy of Hikaru no Go 3** for GameCube (disc ID **GHTJA4**).
 
-No full disc image, emulator, memory-card save, account configuration, commercial
-font file or extracted original game archive is included.
+### Windows installation
 
-## Licence and attribution
+1. Download and extract the release ZIP.
+2. Open `Hikaru_English_Patcher.exe`.
+3. Select your original Japanese GameCube ISO.
+4. Click **Apply patch...** and choose where to save the English version.
+5. Open the newly patched ISO in Dolphin and enjoy!
 
-Original project tools, documentation and translation contributions are available
-under MIT; see LICENSE and LICENSE_SCOPE.md. Original game material and third-party
-components retain their respective ownership and terms. The original game credits
-remain in the game. This is an unofficial fan project, unaffiliated with the rights
-holders. Contributions and corrections are welcome.
+That's it! No coding, Python or terminal needed.
 
+The download also includes a standard `.bps` patch if you'd rather use another compatible patching tool.
 
+**A couple of things to remember:**
+
+- Always patch a clean Japanese ISO, not an older English-patched version.
+- The patcher verifies your original game and the finished output.
+- Your original ISO won't be overwritten.
+- Start the patched game with a fresh boot rather than loading an old emulator save state. Normal memory-card saves can still be used.
+
+For more detailed instructions, see the **[full installation guide](PATCHING_GUIDE.md)**.
+
+## Translation progress
+
+| Area | Status |
+| --- | --- |
+| English translation | **~100% of identified game text** |
+| Menus and interface | Translated |
+| Story and character dialogue | Translated |
+| Go matches and results | Translated |
+| Training and tutorials | Translated |
+| English name entry | Implemented |
+| Further testing | Welcome |
+
+I've spent quite a bit of time going back over the dialogue, fixing awkward wording, adjusting speech bubbles and making sure everything fits properly.
+
+The latest **v1.0.4** update fixes another 19 lines across Story, room conversations and matches, including a few questions that had accidentally become statements in English.
+
+### What hasn't been fully tested?
+
+There are still a few areas that haven't been thoroughly checked:
+
+- Optional Story routes and less common dialogue
+- Some player-name editing and save scenarios
+- GBA connectivity and transfer features
+- Longer playthroughs and original hardware compatibility
+
+Some Japanese background signage and collectible packaging have intentionally been left untouched.
+
+The translation percentage reflects the text identified and translated so far, rather than a guarantee that every possible screen and optional route has been tested.
+
+If you come across anything I've missed, feel free to [open an issue](https://github.com/KodakWizard/hikaru-no-go-3-english/issues).
+
+You can also check the [known issues](KNOWN_ISSUES.md) and [testing checklist](RUNTIME_CHECKLIST.md) for more details.
+
+## Found something that needs fixing?
+
+If you spot some strange wording, text that gets cut off, a graphical issue or anything else that doesn't seem right, please let me know.
+
+**[Report an issue on GitHub](https://github.com/KodakWizard/hikaru-no-go-3-english/issues)**
+
+A screenshot and a quick note about where it happened would be really helpful.
+
+The more people who try different parts of the game, the easier it'll be to catch anything I've missed.
+
+If you're interested in helping with the translation itself, there's also an [editable dialogue catalogue](editable_text.json) and a [contribution guide](CONTRIBUTING.md).
+
+Please don't upload game ISOs, personal saves or emulator configuration files to issues.
+
+## Project files and technical details
+
+<details>
+<summary><strong>Checksums and patching information</strong></summary>
+
+The patch requires an unmodified Japanese GameCube ISO (GHTJA4).
+
+**Original ISO size:**
+
+`1,459,978,240 bytes`
+
+**Original ISO SHA-256:**
+
+`c6882110afa9ef27bf49f2e0530e37c51164d5ad0c10466cb164fc1b938406fc`
+
+The patcher checks the original image before applying the translation and verifies the finished output.
+
+If you're on another platform, you can use the included `.bps` file with a compatible patcher, or the Python patching tool included in the project.
+
+See the [patching guide](PATCHING_GUIDE.md) for more information.
+
+</details>
+
+<details>
+<summary><strong>Source files and translation tools</strong></summary>
+
+For anyone interested in how the translation works, I've included the development tools and files used throughout the project.
+
+These include:
+
+- [Editable dialogue catalogue](editable_text.json)
+- [Translation contribution guide](CONTRIBUTING.md)
+- [Source guide](SOURCE_GUIDE.md)
+- [Technical audit](TECHNICAL_AUDIT.md)
+- [Known issues](KNOWN_ISSUES.md)
+- [Runtime testing checklist](RUNTIME_CHECKLIST.md)
+
+You can also download the [v1.0.4 working files](https://github.com/KodakWizard/hikaru-no-go-3-english/releases/download/v1.0.4/Hikaru_no_Go_3_v1.0.4_Working_Files.zip).
+
+The historical development scripts are included for reference and future work, although they aren't currently a one-click way to rebuild the entire project from scratch.
+
+</details>
+
+## A note on AI
+
+I've used AI tools, including ChatGPT, quite extensively while making this translation, particularly for translation work, coding and troubleshooting.
+
+It's been a lot of back and forth rather than something that came together with a single prompt. I've gone through nearly 60 development revisions, reviewing the dialogue, testing builds, fixing things that didn't look right and gradually getting everything into a state I was happy with.
+
+I wanted to be upfront about how the project was made, while also acknowledging all the hands-on work, testing and trial and error that's gone into it.
+
+I'm really happy with how far the project has come, and I hope people enjoy finally being able to play Hikaru no Go 3 in English!
+
+## Credits and licence
+
+This is an unofficial fan translation and is not affiliated with Konami or the original rights holders.
+
+The original game, characters, artwork and music belong to their respective owners.
+
+Original project code, documentation and translation contributions are available under the MIT licence where applicable. See [LICENSE](LICENSE) and [licence scope](LICENSE_SCOPE.md) for details. This licence does not cover any of the original game's copyrighted material.
+
+**No game disc image, emulator or commercial font files are included.** You'll need your own legally obtained Japanese copy of Hikaru no Go 3 to use the patch.
