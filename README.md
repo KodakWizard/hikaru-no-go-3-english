@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="project-logo.png" width="580" alt="Hikaru no Go 3 English translation artwork">
+  <img src="project-logo.png?v=1ac6f58" width="580" alt="Hikaru no Go 3 English translation artwork">
 </p>
 
 <h1 align="center">Hikaru no Go 3 - English Fan Translation</h1>
