@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <strong>v1.0.4</strong> · Nintendo GameCube · Japanese release (GHTJA4)
+  <strong>v1.0.5</strong> · Nintendo GameCube · Japanese release (GHTJA4)
 </p>
 
 <p align="center">
-  <a href="https://github.com/KodakWizard/hikaru-no-go-3-english/releases/download/v1.0.4/Hikaru_no_Go_3_English_v1.0.4.zip"><strong>Download the English Patch</strong></a>
+  <a href="https://github.com/KodakWizard/hikaru-no-go-3-english/releases/download/v1.0.5/Hikaru_no_Go_3_English_v1.0.5.zip"><strong>Download the English Patch</strong></a>
   &nbsp; · &nbsp;
   <a href="PATCHING_GUIDE.md">Installation Guide</a>
   &nbsp; · &nbsp;
@@ -86,7 +86,7 @@ A few screenshots from the English translation running in Dolphin. Click any ima
 
 ## Getting started
 
-**[Download the latest English patch (v1.0.4)](https://github.com/KodakWizard/hikaru-no-go-3-english/releases/download/v1.0.4/Hikaru_no_Go_3_English_v1.0.4.zip)**
+**[Download the latest English patch (v1.0.5)](https://github.com/KodakWizard/hikaru-no-go-3-english/releases/download/v1.0.5/Hikaru_no_Go_3_English_v1.0.5.zip)**
 
 You'll need your own **legally obtained, unmodified Japanese copy of Hikaru no Go 3** for GameCube (disc ID **GHTJA4**).
 
@@ -125,7 +125,7 @@ For more detailed instructions, see the **[full installation guide](PATCHING_GUI
 
 I've spent quite a bit of time going back over the dialogue, fixing awkward wording, adjusting speech bubbles and making sure everything fits properly.
 
-The latest **v1.0.4** update fixes another 19 lines across Story, room conversations and matches, including a few questions that had accidentally become statements in English.
+The latest **v1.0.5** update cleans up the logo on both startup screens and keeps it aligned when you press Start.
 
 ### What hasn't been fully tested?
 
@@ -195,7 +195,7 @@ These include:
 - [Known issues](KNOWN_ISSUES.md)
 - [Runtime testing checklist](RUNTIME_CHECKLIST.md)
 
-You can also download the [v1.0.4 working files](https://github.com/KodakWizard/hikaru-no-go-3-english/releases/download/v1.0.4/Hikaru_no_Go_3_v1.0.4_Working_Files.zip).
+You can also download the [v1.0.5 working files](https://github.com/KodakWizard/hikaru-no-go-3-english/releases/download/v1.0.5/Hikaru_no_Go_3_v1.0.5_Working_Files.zip).
 
 The historical development scripts are included for reference and future work, although they aren't currently a one-click way to rebuild the entire project from scratch.
 
