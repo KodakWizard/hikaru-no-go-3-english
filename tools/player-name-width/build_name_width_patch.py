@@ -47,19 +47,30 @@ def patch_dol(original):
     for table, value in ((0, new_offset), (0x48, CODE_BASE), (0x90, len(blob))):
         struct.pack_into(">I", dol, table + 8, value)
 
-    edits={
-     0x80173e64:branch(0x80173e64,labels['expand'],True),
-     0x80173e6c:0x389f00ed, # display the expanded editor buffer
-     0x80173e74:0x387f00ed, # original strlen/2 now sees the expanded editor buffer
-     0x80173f98:branch(0x80173f98,labels['narrow'],True),
-     0x80149554:branch(0x80149554,labels['narrow'],True), # fresh Story profile
-     0x80171ff8:branch(0x80171ff8,labels['narrow'],True), # registered player creation
-     0x8017209c:branch(0x8017209c,labels['narrow'],True), # player-list creation
-     0x8014df54:branch(0x8014df54,labels['narrow'],True), # registered player rename
-     0x8014e574:branch(0x8014e574,labels['expand'],True), # registered player editor
-     0x8014e57c:0x389d00ed,
-     0x8014e584:0x387d00ed,
-     0x801ee138:branch(0x801ee138,labels['arena_floor']),
+    # All keys are GHTJA4 runtime addresses. The DOL section table maps
+    # them to file offsets before the replacement instructions are written.
+    edits = {
+        # Story mode: confirm a new profile or confirm a renamed profile.
+        0x80149554: branch(0x80149554, labels["narrow"], True),  # New Story profile
+        0x80173F98: branch(0x80173F98, labels["narrow"], True),  # Story rename
+
+        # Registered players: confirm the name in each creation or rename path.
+        0x80171FF8: branch(0x80171FF8, labels["narrow"], True),  # Register a player
+        0x8017209C: branch(0x8017209C, labels["narrow"], True),  # Create from player list
+        0x8014DF54: branch(0x8014DF54, labels["narrow"], True),  # Rename a registered player
+
+        # Story name editor: expand the saved name into the temporary buffer.
+        0x80173E64: branch(0x80173E64, labels["expand"], True),
+        0x80173E6C: 0x389F00ED,  # Display the expanded name (r4 = r31 + 0xED)
+        0x80173E74: 0x387F00ED,  # Count its two-byte slots (r3 = r31 + 0xED)
+
+        # Registered player editor: use its own temporary buffer for the same steps.
+        0x8014E574: branch(0x8014E574, labels["expand"], True),
+        0x8014E57C: 0x389D00ED,  # Display the expanded name (r4 = r29 + 0xED)
+        0x8014E584: 0x387D00ED,  # Count its two-byte slots (r3 = r29 + 0xED)
+
+        # System memory setup: reserve the new code below the heap.
+        0x801EE138: branch(0x801EE138, labels["arena_floor"]),
     }
 
     code_offset, code_address, _ = sections[1]
