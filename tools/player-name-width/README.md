@@ -5,6 +5,18 @@ full-width A–Z, a–z and 0–9 to ASCII when the player confirms a name, then
 expands those characters in the temporary buffer when the name editor reopens.
 Japanese characters and punctuation keep their original encoding.
 
+## What happens when you enter a name
+
+| Player action | What the patch does |
+| --- | --- |
+| Type a new name | The editor uses its original full-width slots. |
+| Confirm the name | `narrow` turns `Ａｋｉ１` into `Aki1` for display and saving. |
+| Reopen the name editor | `expand` turns `Aki1` back into `Ａｋｉ１` in the temporary buffer so the editor can count and delete its two-byte slots. |
+
+A custom font can supply the ASCII letters and digits used by confirmed
+names. The game's text renderer still controls the distance between
+characters. The name editor uses its original spacing while you type.
+
 ## Build
 
 1. Extract `main.dol` from the Japanese GameCube game (GHTJA4) or from your
@@ -28,8 +40,8 @@ the source as a porting reference and integrate the hooks into your build.
 `name_width_routines.py` generates the PowerPC routines. The `narrow` and
 `expand` entry points take the destination in r3 and the null-terminated
 source in r4. The editor expects an 11-byte destination, including the
-terminator. The `edits` table in the builder shows the five confirmation hooks,
-two editor hooks, four buffer references and the arena hook. Map addresses
+terminator. The [builder's hook table](build_name_width_patch.py) labels each site by
+its screen or action, including the display and character count for both editors. Map addresses
 through your DOL section table and verify the original call sites before
 recalculating branches. Place the routines in a declared executable section
 and reserve their memory against heap allocation.
